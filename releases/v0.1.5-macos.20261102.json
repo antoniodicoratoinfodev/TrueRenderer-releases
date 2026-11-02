@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "tag": "v0.1.5-macos.20261102",
+  "version": "0.1.5",
+  "build": "6",
+  "platform": "macOS arm64",
+  "signature": "ad-hoc",
+  "notarized": false,
+  "asset": "TrueRenderer-0.1.5-macos-arm64-20261102.zip",
+  "sha256": "b6e33655610a0f8f9a2a12ef10bd1c73c1c788e5b8962349391c2caf866932ca",
+  "size": 58131959
+}
