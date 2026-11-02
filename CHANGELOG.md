@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.5 — anteprima macOS del 2 novembre 2026
+## v0.1.5-macos.20261102
 
 - Vista Integrata del JPEG incorporato nei RAW, con ritorno esplicito allo sviluppo Piena.
 - Pannelli fotografici e raster, livelli, ritocco e prova colore RGB/CMYK.
