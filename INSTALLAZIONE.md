@@ -1,6 +1,6 @@
-# Installazione macOS — anteprima privata
+# Installazione macOS — anteprima
 
-1. Accedi a GitHub con un account autorizzato e scarica lo ZIP macOS e `SHA256SUMS.txt` dagli allegati della release. Gli archivi automatici “Source code” contengono la documentazione, non l'app.
+1. Scarica lo ZIP macOS e `SHA256SUMS.txt` dagli allegati della release pubblica; non serve un account GitHub. Gli archivi automatici “Source code” contengono la documentazione, non l'app.
 2. Nella cartella dei download verifica `shasum -a 256 -c SHA256SUMS.txt`.
 3. Estrai lo ZIP e sposta **l'intera cartella** in una posizione scrivibile, per esempio `~/Applications/TrueRenderer-0.1.5-macos-arm64/`. Conserva app, corpus, avviatore e sorgenti/avvisi di terzi insieme.
 4. Avvia **Avvia TrueRenderer.command**. Questo avviatore imposta risorse e dati separati dal progetto di sviluppo. Non spostare la sola `.app` e non usare il doppio clic diretto sull'app per questa anteprima.

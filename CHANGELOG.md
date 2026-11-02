@@ -2,6 +2,8 @@
 
 ## v0.1.5-macos.20261102
 
+Download resi pubblici e istruzioni aggiornate; binari dell’app invariati.
+
 - Vista Integrata del JPEG incorporato nei RAW, con ritorno esplicito allo sviluppo Piena.
 - Pannelli fotografici e raster, livelli, ritocco e prova colore RGB/CMYK.
 - Area più ampia per la lista degli strumenti Ritocco.

@@ -13,7 +13,7 @@
 
 [Installation instructions](INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.5-macos.20261102/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
-**Mac:** extract the ZIP, keep the entire folder together and start **Avvia TrueRenderer.command**. This experimental preview is ad-hoc signed and is not notarized. Downloads require a GitHub account with access to this private repository.
+**Mac:** extract the ZIP, keep the entire folder together and start **Avvia TrueRenderer.command**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
 [Release notes](CHANGELOG.md) · [Compatibility](COMPATIBILITA.md) · [Roadmap](ROADMAP.md) · [Support](SUPPORTO.md)
 
