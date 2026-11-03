@@ -17,8 +17,8 @@ L'accesso al repository non sostituisce il permesso d'uso previsto dalla [licenz
 
 ## Windows x64
 
-1. Scarica **TrueRenderer-0.1.5-Setup-x64.exe** e il relativo file `.sha256` dalla release Windows pubblica; non serve un account GitHub. Gli archivi automatici “Source code” contengono la documentazione, non l'app.
-2. Nella cartella dei download esegui in PowerShell `Get-FileHash .\TrueRenderer-0.1.5-Setup-x64.exe -Algorithm SHA256` e confronta il valore con quello nel file `.sha256`.
+1. Scarica **TrueRenderer-0.1.6-Setup-x64.exe** e il relativo file `.sha256` dalla release Windows pubblica; non serve un account GitHub. Gli archivi automatici “Source code” contengono la documentazione, non l'app.
+2. Nella cartella dei download esegui in PowerShell `Get-FileHash .\TrueRenderer-0.1.6-Setup-x64.exe -Algorithm SHA256` e confronta il valore con quello nel file `.sha256`.
 3. Chiudi TrueRenderer se aperto, avvia l'installer e segui la procedura. L'installazione è per il tuo utente, senza privilegi amministrativi, in `%LOCALAPPDATA%\Programs\TrueRenderer`. Il collegamento Desktop e l'associazione dei file `.truerenderer` sono opzioni dell'installer.
 4. Avvia TrueRenderer dal menu Start o dal collegamento creato.
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.6-windows.20261103
+
+Versione Windows allineata a **0.1.6**, compresi app, worker e installer. Funzionalità e limiti dell’anteprima Windows precedente invariati. Checksum e manifest aggiornati; il download macOS resta alla versione 0.1.5.
+
 ## v0.1.5-windows.20261103
 
 Prima anteprima Windows x64 con installer per utente, runtime grafico e materiali delle dipendenze inclusi.
