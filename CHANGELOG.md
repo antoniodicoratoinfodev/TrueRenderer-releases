@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.1.6-macos.20261104
+
+TrueRenderer 0.1.6 for macOS Apple Silicon, aligned with the Windows 0.1.6 source version.
+
+- Embedded RAW previews support RGB adjustments, cropping and color proofing, with the same editing recipe retained across preview modes. Sensor white balance stays suspended on the camera JPEG.
+- Embedded previews load visible images and nearby photographs on demand.
+- Improved editing continuity during rapid adjustments with color proofing, plus faster histogram and JPEG color conversion.
+- Raster export from the embedded preview uses that representation, up to 2048 pixels; DNG export is excluded from this path.
+
+Experimental preview. Camera support depends on the selected RAW engine and available embedded JPEG. Matching version numbers do not imply identical platform performance or universal camera support.
+
+macOS Apple Silicon preview; ad-hoc signed, not notarized. Extract the full folder and use Avvia TrueRenderer.command.
+
 ## v0.1.6-windows.20261103
 
 Versione Windows allineata a **0.1.6**, compresi app, worker e installer. Funzionalità e limiti dell’anteprima Windows precedente invariati. Checksum e manifest aggiornati; il download macOS resta alla versione 0.1.5.
