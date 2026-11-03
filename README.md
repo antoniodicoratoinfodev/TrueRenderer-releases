@@ -7,13 +7,15 @@
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — ZIP · 58 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.5-macos.20261102/TrueRenderer-0.1.5-macos-arm64-20261102.zip)** | 0.1.5 · Preview |
-| **Windows · x64** | Coming later | — |
+| **Windows · x64** | **[Download for Windows — Installer EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.5-windows.20261103/TrueRenderer-0.1.5-Setup-x64.exe)** | 0.1.5 · Preview |
 
 <!-- macos-download:end -->
 
 [Installation instructions](INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.5-macos.20261102/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 **Mac:** extract the ZIP, keep the entire folder together and start **Avvia TrueRenderer.command**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
+
+**Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.5-windows.20261103/TrueRenderer-0.1.5-Setup-x64.exe.sha256).
 
 [Release notes](CHANGELOG.md) · [Compatibility](COMPATIBILITA.md) · [Roadmap](ROADMAP.md) · [Support](SUPPORTO.md)
 
@@ -124,6 +126,8 @@ Colour guides appear directly in the slider tracks. The path bar has matching ic
 Choose the RAW engine in **Settings → Previews and RAW**, then **Apply and save**. The top bar shows the applied default; **Photo:** identifies a different engine stored in the selected RAW photo’s recipe. Changing the default preserves existing edits and compatible previews, including decoded JPEGs in the current session.
 
 On macOS, choose **Previews → Embedded** (**Integrata** in Italian) to browse the camera JPEG inside a RAW without developing the sensor. It can work even when the selected RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](COMPATIBILITA.md).
+
+On Windows, **Embedded** also supports RGB edits, crop, soft proofing and raster export up to 2048 pixels. The edit recipe is shared with Standard/Full; sensor white balance is preserved but suspended on the camera JPEG. Changing to RAW development can change the rendering. Only visible images and nearby previews are prepared while browsing.
 
 Exposure and tone-curve previews preserve the detail available in the viewer, including at 100%. Later clicks on the interface do not restart a reduced editing preview. Spatial filters and active layers still use provisional previews during adjustments.
 

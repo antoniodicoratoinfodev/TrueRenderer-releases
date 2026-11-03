@@ -4,6 +4,9 @@
 - Verifica del pacchetto eseguita su macOS 27.2. Versione minima del sistema e funzionamento su altri Mac non qualificati; nessun pacchetto Intel/universal.
 - Due decoder XPC con App Sandbox; firma ad hoc, nessuna notarizzazione o qualifica per il rilascio pubblico.
 - JPEG, PNG e TIFF; RAW dipendenti da modello, motore e versione macOS. Nessuna compatibilità universale.
-- Integrata mostra il JPEG fotocamera, fino a 2048 pixel, quando presente in un contenitore riconosciuto. Le modifiche RAW sono conservate ma sospese. Tornare a Piena per sviluppo ed esportazione.
+- Nel pacchetto macOS del 2 novembre, Integrata mostra il JPEG fotocamera, fino a 2048 pixel, quando presente in un contenitore riconosciuto. Le modifiche RAW sono conservate ma sospese. Tornare a Piena per sviluppo ed esportazione.
 - Il motore indipendente trueRendererExperimental 32fp resta sperimentale. Le etichette di qualità nell'interfaccia non sono una certificazione della resa.
-- Windows: pacchetto da aggiungere in una consegna successiva. Nessun download Windows disponibile qui.
+- Windows: installer per utente x64, versione 0.1.5, snapshot del 3 novembre 2026. Richiede Windows 10/11 x64 e dispositivo/driver grafico compatibile; ARM64 non qualificato.
+- Installer e binari Windows non firmati; SmartScreen o Smart App Control possono bloccarli. Nessuna qualifica su macchine pulite o garanzia di compatibilità universale.
+- Decoder Windows eseguito in worker LPAC con limiti Job Object. RAW dipendenti da contenitore, modello e motore selezionato.
+- Su Windows Integrata estrae il JPEG dei contenitori TIFF/RAF riconosciuti, fino a 2048 pixel. Disponibili regolazioni RGB, ritaglio, prova colore ed export raster sulla resa della fotocamera; WB sensore sospeso. DNG sensore/lineare richiedono sviluppo RAW. Le foto visibili e vicine vengono preparate su richiesta; l'apertura fredda è progressiva.
