@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1.8-macos.20261104
+
+TrueRenderer 0.1.8 per macOS Apple Silicon.
+
+- Nuova icona TR nel bundle macOS e nella finestra dell’app.
+- Numero versione allineato a Windows 0.1.8.
+- Include ripristino di cartella, foto, vista e qualità per foto, e persistenza delle anteprime della precedente consegna Mac.
+
+Versione sperimentale; i livelli Standard/Piena restano Anteprima. Firma ad hoc, senza notarizzazione; minimo OS e altri Mac non qualificati.
+
+macOS Apple Silicon preview; ad-hoc signed, not notarized. Extract the full folder and use Avvia TrueRenderer.command.
+
 ## v0.1.8-windows.20261104
 
 Nuova icona TR per app, barra delle applicazioni, collegamenti e installer Windows. Inclusa la ripresa di cartella, foto, vista e qualit? e il completamento delle scritture anteprime alla chiusura introdotti nei sorgenti 0.1.7. Installer non firmato, limiti di compatibilit? e qualifica invariati. Il download macOS resta 0.1.7; la nuova icona Mac richiede una successiva build verificata su Mac.
