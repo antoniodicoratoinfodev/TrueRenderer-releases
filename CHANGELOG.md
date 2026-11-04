@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1.7-macos.20261104
+
+TrueRenderer 0.1.7 per macOS Apple Silicon
+
+Riprende l’ultima cartella, la foto selezionata e la vista Anteprima/Griglia all’avvio. Conserva le scelte di qualità per singola foto tra sessioni e cartelle; il cambio globale continua ad azzerarle.
+
+La chiusura normale attende le scritture delle anteprime accettate. Embedded dà precedenza alle foto visibili e ai vicini, poi prepara il resto della cartella in sottofondo. Le anteprime già conservate vengono riusate alla riapertura, nei limiti della cache; lettura, verifica e presentazione richiedono comunque tempo.
+
+Prerelease arm64 con firma ad hoc, non notarizzata. Qualificata su questo Mac; minimi OS e altri Mac non ancora qualificati. Windows resta alla 0.1.6.
+
+macOS Apple Silicon preview; ad-hoc signed, not notarized. Extract the full folder and use Avvia TrueRenderer.command.
+
 ## v0.1.6-macos.20261104
 
 TrueRenderer 0.1.6 for macOS Apple Silicon, aligned with the Windows 0.1.6 source version.
