@@ -31,7 +31,7 @@
 
 [Installation instructions](INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-macos.20261104/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
-**Mac:** extract the ZIP, keep the entire folder together and start **Avvia TrueRenderer.command**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
+**Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
 **Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
 
@@ -123,7 +123,7 @@ PPI. Export size and PPI overrides affect the exported copy. Documents admit up 
 available memory. The reader accepts project versions 1, 2 and 3; new projects
 with an original reference or CMYK destination use version 3. Sensor development
 is embedded as pixels inside the project, so return to the RAW to change its
-sensor white balance or rendering engine.
+sensor white balance or RAW development settings.
 
 Photo retouch uses CPU replay and can be slower on large images. Its bounded
 recipe admits 128 strokes and 1024 total path/selection points within 48 KiB.
@@ -141,9 +141,7 @@ Photographic sliders move continuously. Hold Shift while dragging for fine adjus
 
 Colour guides appear directly in the slider tracks. The path bar has matching icons to show or hide the left and right panels. The filmstrip toggle is at the right of the bottom status bar. Keyboard shortcuts remain **Cmd/Ctrl+B** for the left panel, **I** for Develop / Information and **T** for the viewer filmstrip.
 
-Choose the RAW engine in **Settings → Previews and RAW**, then **Apply and save**. The top bar shows the applied default; **Photo:** identifies a different engine stored in the selected RAW photo’s recipe. Changing the default preserves existing edits and compatible previews, including decoded JPEGs in the current session.
-
-On macOS, choose **Previews → Embedded** (**Integrata** in Italian) to browse the camera JPEG inside a RAW without developing the sensor. It can work even when the selected RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](COMPATIBILITA.md).
+On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](COMPATIBILITA.md).
 
 On Windows, **Embedded** also supports RGB edits, crop, soft proofing and raster export up to 2048 pixels. The edit recipe is shared with Standard/Full; sensor white balance is preserved but suspended on the camera JPEG. Changing to RAW development can change the rendering. Only visible images and nearby previews are prepared while browsing.
 
@@ -177,14 +175,9 @@ Use **star ratings, colour labels, reject flags and keywords** to organize a sho
 
 Your originals remain read-only. Editing recipes, annotations and saved looks live in the local library and its backups.
 
-## Choose your RAW rendering engine
+## TrueRenderer RAW rendering
 
-Choose a rendering engine in Settings to explore different interpretations of your RAW files:
-
-- **TrueRenderer**: our flagship independent RAW engine, available on macOS as **trueRendererExperimental 32fp**. Its 32-bit floating-point pipeline preserves negative values and values above nominal white, offering greater numerical headroom than the app's 16-bit integer LibRaw paths. Independent decoding, directional reconstruction and sensor-aware highlight treatment give it a dedicated path from the sensor mosaic to the developed image.
-- **Apple RAW**: native macOS RAW development through Apple's camera support and rendering pipeline. Camera compatibility follows the decoder installed with macOS.
-- **LibRaw AHD**: LibRaw decoding with Adaptive Homogeneity-Directed demosaicing, providing an alternative rendering for comparison.
-- **LibRaw bilinear**: LibRaw decoding with bilinear interpolation, a straightforward rendering option for comparison.
+**TrueRenderer** is our independent RAW engine, available on macOS as **trueRendererExperimental 32fp**. Its 32-bit floating-point pipeline preserves negative values and values above nominal white. Independent decoding, directional reconstruction and sensor-aware highlight treatment give it a dedicated path from the sensor mosaic to the developed image.
 
 TrueRenderer includes Temperature and Tint controls, neutral-area white-balance sampling, an As shot reset and DNG export of the decoded sensor mosaic. Its fp32 headroom is a concrete advantage; the best-looking rendering still depends on the photograph and the adjustments you choose.
 
@@ -198,7 +191,7 @@ The following camera models and recording modes are currently supported by **Tru
 | **Nikon D800** | NEF · Bayer | Full-frame FX, 12-bit or 14-bit lossless compressed RAW |
 | **Fujifilm X-T5** | RAF · X-Trans | Full-resolution, 14-bit lossy compressed RAW |
 
-Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features. Apple RAW and LibRaw have their own camera coverage.
+Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features.
 
 **Camera compatibility is expanding week by week.** I am continually adding support for new models and recording modes. If you need a particular camera implemented, contact me with the manufacturer, exact model, RAW format, bit depth and compression settings, plus an original RAW sample if available. Your requests help shape the next additions.
 
