@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="INSTALLAZIONE.md">Installation</a> &nbsp;·&nbsp;
-  <a href="CHANGELOG.md">Release notes</a> &nbsp;·&nbsp;
-  <a href="SUPPORTO.md">Support</a>
+  <a href="docs/INSTALLAZIONE.md">Installation</a> &nbsp;·&nbsp;
+  <a href="docs/CHANGELOG.md">Release notes</a> &nbsp;·&nbsp;
+  <a href="docs/SUPPORTO.md">Support</a>
 </p>
 
 ---
@@ -29,13 +29,13 @@
 
 <!-- macos-download:end -->
 
-[Installation instructions](INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-macos.20261104/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Installation instructions](docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-macos.20261104/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
-**Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
+**Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](docs/INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
 
-[Release notes](CHANGELOG.md) · [Compatibility](COMPATIBILITA.md) · [Roadmap](ROADMAP.md) · [Support](SUPPORTO.md)
+[Release notes](docs/CHANGELOG.md) · [Compatibility](docs/COMPATIBILITA.md) · [Roadmap](docs/ROADMAP.md) · [Support](docs/SUPPORTO.md)
 
 ---
 
@@ -127,7 +127,7 @@ sensor white balance or RAW development settings.
 
 Photo retouch uses CPU replay and can be slower on large images. Its bounded
 recipe admits 128 strokes and 1024 total path/selection points within 48 KiB.
-See [compatibility and limits](COMPATIBILITA.md).
+See [compatibility and limits](docs/COMPATIBILITA.md).
 
 - **Local adjustments:** combine brush, linear and radial gradients, luminance and hue masks; add, subtract, intersect, soften and invert their coverage.
 - **Independent layer controls:** name, duplicate, reorder, hide or lock layers and adjust Opacity and Fill.
@@ -141,7 +141,7 @@ Photographic sliders move continuously. Hold Shift while dragging for fine adjus
 
 Colour guides appear directly in the slider tracks. The path bar has matching icons to show or hide the left and right panels. The filmstrip toggle is at the right of the bottom status bar. Keyboard shortcuts remain **Cmd/Ctrl+B** for the left panel, **I** for Develop / Information and **T** for the viewer filmstrip.
 
-On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](COMPATIBILITA.md).
+On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](docs/COMPATIBILITA.md).
 
 On Windows, **Embedded** also supports RGB edits, crop, soft proofing and raster export up to 2048 pixels. The edit recipe is shared with Standard/Full; sensor white balance is preserved but suspended on the camera JPEG. Changing to RAW development can change the rendering. Only visible images and nearby previews are prepared while browsing.
 
@@ -228,10 +228,10 @@ For scientific imagery, TrueRenderer also opens **2D FITS images**, with linear 
 
 Open an image or a folder, select a photograph and choose **Develop**. Use **Adjustments** for the essentials, **Tools** to find a creative control, and **Layers** to build a local treatment. The **Actions** menu gives you looks, crop, copy/paste and output verification.
 
-Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](NOTICE.md).
+Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](docs/NOTICE.md).
 
 
 ## Rights and credits
 
-TrueRenderer is proprietary software. Access to this repository does not grant a general license to run or redistribute it; prior permission from the owner remains required under the unchanged [license](LICENSE). See [third-party notices and photograph credits](NOTICE.md).
+TrueRenderer is proprietary software. Access to this repository does not grant a general license to run or redistribute it; prior permission from the owner remains required under the unchanged [license](docs/LICENSE). See [third-party notices and photograph credits](docs/NOTICE.md).
 
