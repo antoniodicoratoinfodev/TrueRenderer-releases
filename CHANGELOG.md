@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.8-windows.20261104
+
+Nuova icona TR per app, barra delle applicazioni, collegamenti e installer Windows. Inclusa la ripresa di cartella, foto, vista e qualit? e il completamento delle scritture anteprime alla chiusura introdotti nei sorgenti 0.1.7. Installer non firmato, limiti di compatibilit? e qualifica invariati. Il download macOS resta 0.1.7; la nuova icona Mac richiede una successiva build verificata su Mac.
+
 ## v0.1.7-macos.20261104
 
 TrueRenderer 0.1.7 per macOS Apple Silicon

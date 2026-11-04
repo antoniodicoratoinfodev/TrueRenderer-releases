@@ -7,7 +7,7 @@
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — ZIP · 58 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.7-macos.20261104/TrueRenderer-0.1.7-macos.20261104-arm64.zip)** | 0.1.7 · Preview |
-| **Windows · x64** | **[Download for Windows — Installer EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.6-windows.20261103/TrueRenderer-0.1.6-Setup-x64.exe)** | 0.1.6 · Preview |
+| **Windows · x64** | **[Download for Windows — Installer EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe)** | 0.1.8 · Preview |
 
 <!-- macos-download:end -->
 
@@ -15,7 +15,7 @@
 
 **Mac:** extract the ZIP, keep the entire folder together and start **Avvia TrueRenderer.command**. This experimental preview is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
-**Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.6-windows.20261103/TrueRenderer-0.1.6-Setup-x64.exe.sha256).
+**Windows:** download and run the installer for Windows 10/11 x64. This experimental preview is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
 
 [Release notes](CHANGELOG.md) · [Compatibility](COMPATIBILITA.md) · [Roadmap](ROADMAP.md) · [Support](SUPPORTO.md)
 
