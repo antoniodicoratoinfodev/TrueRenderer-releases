@@ -1,8 +1,22 @@
 <p align="center">
-  <img src="assets/truerenderer-logo.png" alt="TrueRenderer — logo TR" width="160" height="160">
+  <img src="assets/truerenderer-logo.png" alt="TrueRenderer logo" width="112" height="112">
 </p>
 
-# TrueRenderer
+<h1 align="center">TrueRenderer</h1>
+
+<p align="center">
+  <strong>Your photographs. Your colour. Your way.</strong><br>
+  RAW development, colour tools and editable layers for macOS and Windows.
+</p>
+
+<p align="center">
+  <a href="#downloads">Download</a> &nbsp;·&nbsp;
+  <a href="INSTALLAZIONE.md">Installation</a> &nbsp;·&nbsp;
+  <a href="CHANGELOG.md">Release notes</a> &nbsp;·&nbsp;
+  <a href="SUPPORTO.md">Support</a>
+</p>
+
+---
 
 ## Downloads
 
@@ -25,7 +39,7 @@
 
 ---
 
-### Your photographs. Your colour. Your way.
+## A workspace for your photographs
 
 RAW development, expressive colour tools and photographic layers in one desktop workspace. TrueRenderer takes you from choosing your best frames to shaping the final image, with your originals untouched and your work stored locally.
 
