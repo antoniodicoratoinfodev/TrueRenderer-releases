@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/truerenderer-logo.png" alt="TrueRenderer — logo TR" width="160" height="160">
+</p>
+
 # TrueRenderer
 
 ## Downloads
