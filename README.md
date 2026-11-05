@@ -31,7 +31,7 @@ Until the public version is released with the option to purchase a licence or su
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-macos.20261105/TrueRenderer-0.2.1-macos.20261105-arm64.zip)** | 0.2.1 · Beta |
-| **Windows · x64** | Temporarily unavailable | — |
+| **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe)** | 0.2.1 · Beta |
 
 <!-- macos-download:end -->
 
@@ -41,7 +41,7 @@ Until the public version is released with the option to purchase a licence or su
 
 **macOS 0.2.1 sign-in:** after startup, sign in with the account provided for beta access. The shared offline demo account needs no Internet connection; personal online accounts are not yet available. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
 
-**Windows:** the download is temporarily unavailable.
+**Windows:** download and run **TrueRenderer-0.2.1-Setup-x64.exe**. Close TrueRenderer before updating. The offline installer includes the application and its runtime dependencies; no development tools are required. Installation is per user and retains your separate catalog, settings and backups. Requires x64 Windows 10/11 and a compatible graphics device/driver. This beta installer is unsigned. Sign in with the account provided for beta access; **Remember username and password** uses Windows Credential Manager and still requires **Sign in** after restarting. [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe.sha256) · [Windows release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-windows.20261105).
 
 [Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-macos.20261105) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
 
