@@ -18,6 +18,12 @@
 
 ---
 
+## Account and beta access
+
+**An account is required to use TrueRenderer.** The current beta uses the shared offline demo account described below; personal online accounts and commercial licensing are not yet available.
+
+Until the public version is released with the option to purchase a licence or subscription, you can request beta access directly from the owner, development team and technical support at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**.
+
 ## Downloads
 
 <!-- macos-download:start -->
@@ -33,7 +39,7 @@
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
-**macOS 0.2.1 sign-in:** after startup, use the credentials provided for beta access. This shared offline demo login needs no Internet connection or online account. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
+**macOS 0.2.1 sign-in:** after startup, use the credentials provided for beta access. This shared offline demo account needs no Internet connection; personal online accounts are not yet available. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
 
 **Windows:** the download is temporarily unavailable.
 
@@ -49,7 +55,7 @@ RAW development, expressive colour tools and photographic layers in one desktop 
 
 Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
 
-**No photo upload or cloud subscription is required.** The macOS beta uses the shared offline demo sign-in described above; no online account is needed.
+**Your photographs stay local; no photo upload is required.** Access requires an account; the current macOS beta uses the shared offline demo account described above. Licence and subscription options will become available with the public version.
 
 ## Shape the light. Make the colour yours.
 
@@ -195,7 +201,7 @@ The following camera models and recording modes are currently supported by **Tru
 
 Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features.
 
-**Camera compatibility is expanding week by week.** I am continually adding support for new models and recording modes. If you need a particular camera implemented, contact me with the manufacturer, exact model, RAW format, bit depth and compression settings, plus an original RAW sample if available. Your requests help shape the next additions.
+**Camera compatibility is expanding.** If one or more of your cameras are not yet supported, send a specific request directly to the owner, development team and technical support at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**. Include the manufacturer, exact model, RAW format, bit depth and compression settings, plus an original RAW sample if available. The developer will work to implement the requested support as soon as possible.
 
 ## Stay in the photographic flow
 
