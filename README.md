@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="docs/INSTALLAZIONE.md">Installation</a> &nbsp;·&nbsp;
-  <a href="docs/CHANGELOG.md">Release notes</a> &nbsp;·&nbsp;
-  <a href="docs/SUPPORTO.md">Support</a>
+  <a href="#downloads">Installation</a> &nbsp;·&nbsp;
+  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.0-macos.20261105">Release notes</a> &nbsp;·&nbsp;
+  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md">Support</a>
 </p>
 
 ---
@@ -33,9 +33,11 @@
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
+**macOS 0.2.0 sign-in:** after startup, use the credentials provided for beta access. This shared offline demo login needs no Internet connection or online account. Passwords and sessions are not saved; sign in again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
+
 **Windows:** download and run the installer for Windows 10/11 x64. This experimental beta is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
 
-[Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/CHANGELOG.md) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
+[Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.0-macos.20261105) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
 
 ---
 
@@ -47,7 +49,7 @@ RAW development, expressive colour tools and photographic layers in one desktop 
 
 Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
 
-**No account, photo upload or cloud subscription is required.**
+**No photo upload or cloud subscription is required.** The macOS beta uses the shared offline demo sign-in described above; no online account is needed.
 
 ## Shape the light. Make the colour yours.
 
