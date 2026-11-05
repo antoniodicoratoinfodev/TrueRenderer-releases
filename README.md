@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-macos.20261105.refresh2">Release notes</a> &nbsp;·&nbsp;
+  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.2-macos.20261105">Release notes</a> &nbsp;·&nbsp;
   <a href="mailto:truerenderer@gmail.com">Support</a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## Account and beta access
 
-**Discover TrueRenderer in beta.** Request access at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** and explore a workspace built around your photographs. An account is required; the current beta uses a shared offline demo account. Personal online accounts, licence purchases and subscriptions will become available with the public version.
+**Discover TrueRenderer in beta.** Request access at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** and explore a workspace built around your photographs. An account is required; beta access details are provided by the publisher.
 
 ## Downloads
 
@@ -130,7 +130,7 @@ Your originals remain read-only. Editing recipes, annotations and saved looks li
 
 ## TrueRenderer RAW rendering
 
-**TrueRenderer** is our independent RAW engine, available on macOS as **trueRendererExperimental 32fp**. Its 32-bit floating-point pipeline preserves negative values and values above nominal white. Independent decoding, directional reconstruction and sensor-aware highlight treatment give it a dedicated path from the sensor mosaic to the developed image.
+**TrueRenderer** is our independent RAW engine, available on macOS as **trueRendererExperimental 32fp**. New macOS profiles select this engine automatically. Its 32-bit floating-point pipeline preserves negative values and values above nominal white. Independent decoding, directional reconstruction and sensor-aware highlight treatment give it a dedicated path from the sensor mosaic to the developed image.
 
 TrueRenderer includes Temperature and Tint controls, neutral-area white-balance sampling, an As shot reset and DNG export of the decoded sensor mosaic. Its fp32 headroom is a concrete advantage; the best-looking rendering still depends on the photograph and the adjustments you choose.
 
@@ -146,7 +146,7 @@ The following camera models and recording modes are currently supported by **Tru
 
 Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features.
 
-**Camera compatibility is expanding.** Request support for your camera at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**, with its exact model and RAW recording mode. The developer will work to add requested support as soon as possible.
+For camera compatibility questions, contact **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** with the exact model and RAW recording mode.
 
 ## Stay in the photographic flow
 
