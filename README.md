@@ -24,12 +24,12 @@
 
 | Platform | Download | Version |
 |---|---|---|
-| **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-macos.20261104/TrueRenderer-0.1.8-macos.20261104-arm64.zip)** | 0.1.8 · Beta |
+| **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.9-macos.20261105/TrueRenderer-0.1.9-macos.20261105-arm64.zip)** | 0.1.9 · Beta |
 | **Windows · x64** | **[Download for Windows — Installer EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe)** | 0.1.8 · Beta |
 
 <!-- macos-download:end -->
 
-[Installation instructions](docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-macos.20261104/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Installation instructions](docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.9-macos.20261105/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 

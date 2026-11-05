@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.1.9-macos.20261105
+
+TrueRenderer 0.1.9 for macOS Apple Silicon.
+
+- New compact startup window featuring the official app icon, a graphite background and an orange progress indicator.
+- The startup screen appears before engine initialization and stays visible for at least 1.5 seconds, including fast launches.
+- Engine preparation runs in the background while the window remains responsive. The workspace opens at its normal size when ready.
+- Preserves the existing folder, photo, view and preview-quality restoration.
+
+Experimental beta. Standard/Full remain photographic previews. Ad-hoc signed, not notarized; minimum macOS version and other Macs remain unqualified. Windows remains at 0.1.8.
+
+macOS Apple Silicon beta; ad-hoc signed, not notarized. Extract the full folder and use Avvia TrueRenderer.command.
+
 ## v0.1.8-macos.20261104
 
 TrueRenderer 0.1.8 per macOS Apple Silicon.
