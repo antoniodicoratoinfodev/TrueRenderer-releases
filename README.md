@@ -20,7 +20,7 @@
 
 ## Account and beta access
 
-**An account is required to use TrueRenderer.** The current beta uses the shared offline demo account described below; personal online accounts and commercial licensing are not yet available.
+**An account is required to use TrueRenderer.** The current beta uses a shared offline demo account; personal online accounts and commercial licensing are not yet available.
 
 Until the public version is released with the option to purchase a licence or subscription, you can request beta access directly from the owner, development team and technical support at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**.
 
@@ -39,7 +39,7 @@ Until the public version is released with the option to purchase a licence or su
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
-**macOS 0.2.1 sign-in:** after startup, use the credentials provided for beta access. This shared offline demo account needs no Internet connection; personal online accounts are not yet available. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
+**macOS 0.2.1 sign-in:** after startup, sign in with the account provided for beta access. The shared offline demo account needs no Internet connection; personal online accounts are not yet available. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
 
 **Windows:** the download is temporarily unavailable.
 
@@ -55,7 +55,7 @@ RAW development, expressive colour tools and photographic layers in one desktop 
 
 Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
 
-**Your photographs stay local; no photo upload is required.** Access requires an account; the current macOS beta uses the shared offline demo account described above. Licence and subscription options will become available with the public version.
+**Your photographs stay local; no photo upload is required.** Access requires an account; the current macOS beta uses a shared offline demo account. Licence and subscription options will become available with the public version.
 
 ## Shape the light. Make the colour yours.
 
