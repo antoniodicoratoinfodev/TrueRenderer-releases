@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/truerenderer-logo.png" alt="TrueRenderer logo" width="112" height="112">
+  <img src="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/truerenderer-logo.png" alt="TrueRenderer logo" width="112" height="112">
 </p>
 
 <h1 align="center">TrueRenderer</h1>
@@ -29,13 +29,13 @@
 
 <!-- macos-download:end -->
 
-[Installation instructions](docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.10-macos.20261105/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Installation instructions](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.10-macos.20261105/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 **Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
 
-**Windows:** download and run the installer for Windows 10/11 x64. This experimental beta is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](docs/INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
+**Windows:** download and run the installer for Windows 10/11 x64. This experimental beta is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
 
-[Release notes](docs/CHANGELOG.md) · [Compatibility](docs/COMPATIBILITA.md) · [Roadmap](docs/ROADMAP.md) · [Support](docs/SUPPORTO.md)
+[Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/CHANGELOG.md) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
 
 ---
 
@@ -43,7 +43,7 @@
 
 RAW development, expressive colour tools and photographic layers in one desktop workspace. TrueRenderer takes you from choosing your best frames to shaping the final image, with your originals untouched and your work stored locally.
 
-![Avalanche Lake in Develop, with Explorer open and white-balance and light controls](assets/develop.png)
+![Avalanche Lake in Develop, with Explorer open and white-balance and light controls](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/develop.png)
 
 Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
 
@@ -57,7 +57,7 @@ In Develop, use **Auto white balance** to sample an unclipped white or neutral g
 
 TrueRenderer works in **linear Rec.2020 floating point**, giving its photographic adjustments a wide numerical range. Histograms, tonal-level sampling and pixel inspection help you connect what you see with the image data.
 
-![Four-wheel grading on a photographic layer, with Library open](assets/colour.png)
+![Four-wheel grading on a photographic layer, with Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/colour.png)
 
 | Make the image your own | Tools to get there |
 |---|---|
@@ -73,7 +73,7 @@ The searchable **Tools** catalogue puts adjustments within reach. Each tool has 
 
 For a vintage texture, use **Creative grain** in **Presence and detail**. Enable **Add grain**, choose **Uniform** or **Gaussian**, then adjust **Grain amount**, **Grain size (px)** and **Grain opacity**. **Monochrome grain** adds neutral grain; turn it off for coloured speckles. **New pattern** changes the arrangement, which is saved with the edit. Disabling the effect keeps its settings. Judge fine grain at 100% with **Verify final rendering**; smaller exports naturally soften it.
 
-![Shared photographic and raster Tools beside Grand Teton at sunrise, with Explorer open](assets/tools.png)
+![Shared photographic and raster Tools beside Grand Teton at sunrise, with Explorer open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/tools.png)
 
 ## Build the look, layer by layer
 
@@ -127,13 +127,13 @@ sensor white balance or RAW development settings.
 
 Photo retouch uses CPU replay and can be slower on large images. Its bounded
 recipe admits 128 strokes and 1024 total path/selection points within 48 KiB.
-See [compatibility and limits](docs/COMPATIBILITA.md).
+See [compatibility and limits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md).
 
 - **Local adjustments:** combine brush, linear and radial gradients, luminance and hue masks; add, subtract, intersect, soften and invert their coverage.
 - **Independent layer controls:** name, duplicate, reorder, hide or lock layers and adjust Opacity and Fill.
 - **Reusable looks:** save selected layers, preview them on another photograph and choose their intensity, with optional masks.
 
-![Photographic layers and editable local adjustments, with Library open](assets/layers.png)
+![Photographic layers and editable local adjustments, with Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/layers.png)
 
 **Experiment freely.** Undo, Redo, Reset all and Before/After keep decisions reversible. Double-click a photographic slider to restore its default. Copy selected light, curve and RGB colour adjustments between photographs to carry a treatment through a series.
 
@@ -141,7 +141,7 @@ Photographic sliders move continuously. Hold Shift while dragging for fine adjus
 
 Colour guides appear directly in the slider tracks. The path bar has matching icons to show or hide the left and right panels. The filmstrip toggle is at the right of the bottom status bar. Keyboard shortcuts remain **Cmd/Ctrl+B** for the left panel, **I** for Develop / Information and **T** for the viewer filmstrip.
 
-On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](docs/COMPATIBILITA.md).
+On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md).
 
 On Windows, **Embedded** also supports RGB edits, crop, soft proofing and raster export up to 2048 pixels. The edit recipe is shared with Standard/Full; sensor white balance is preserved but suspended on the camera JPEG. Changing to RAW development can change the rendering. Only visible images and nearby previews are prepared while browsing.
 
@@ -155,13 +155,13 @@ Crop directly on the photograph with draggable edges, a rule-of-thirds grid and 
 
 Rotation, flips, straightening and perspective controls complete the composition tools. Masks follow the photograph through crop and rotation, and the original remains available for a different framing later.
 
-![Interactive crop with aspect-ratio controls, a composition grid and Explorer open](assets/crop.png)
+![Interactive crop with aspect-ratio controls, a composition grid and Explorer open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/crop.png)
 
 ## See the differences that matter
 
 Choose between two frames with **side-by-side comparison and synchronized navigation**. Assign photographs to A and B from the context menu, keep the pair across folders, and inspect detail at physical 1:1. Use Before/After to compare the initial rendering with your current adjustments.
 
-![Photographic comparison with synchronized navigation and Library open](assets/compare.png)
+![Photographic comparison with synchronized navigation and Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/compare.png)
 
 Shutter speed, aperture, ISO, focal length and lens information sit alongside the image, helping you understand each frame as you select and develop it.
 
@@ -171,7 +171,7 @@ Browse folders in **Explorer**, review a thumbnail grid in **Library**, or stay 
 
 Use **star ratings, colour labels, reject flags and keywords** to organize a shoot. Context menus bring ratings, comparison, adjustments, file navigation and export to the photograph you are working on.
 
-![The photograph grid with Explorer open on the demonstration gallery](assets/library.png)
+![The photograph grid with Explorer open on the demonstration gallery](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/library.png)
 
 Your originals remain read-only. Editing recipes, annotations and saved looks live in the local library and its backups.
 
@@ -228,10 +228,10 @@ For scientific imagery, TrueRenderer also opens **2D FITS images**, with linear 
 
 Open an image or a folder, select a photograph and choose **Develop**. Use **Adjustments** for the essentials, **Tools** to find a creative control, and **Layers** to build a local treatment. The **Actions** menu gives you looks, crop, copy/paste and output verification.
 
-Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](docs/NOTICE.md).
+Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
 
 
 ## Rights and credits
 
-TrueRenderer is proprietary software. Access to this repository does not grant a general license to run or redistribute it; prior permission from the owner remains required under the unchanged [license](docs/LICENSE). See [third-party notices and photograph credits](docs/NOTICE.md).
+TrueRenderer is proprietary software. Access to this repository does not grant a general license to run or redistribute it; prior permission from the owner remains required under the unchanged [license](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/LICENSE). See [third-party notices and photograph credits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
 

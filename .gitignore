@@ -1,7 +1,0 @@
-.DS_Store
-/artifacts/
-*.zip
-*.dmg
-*.exe
-__pycache__/
-*.pyc
