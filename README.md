@@ -25,7 +25,7 @@
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-macos.20261105/TrueRenderer-0.2.1-macos.20261105-arm64.zip)** | 0.2.1 · Beta |
-| **Windows · x64** | **[Download for Windows — Installer EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe)** | 0.1.8 · Beta |
+| **Windows · x64** | Temporarily unavailable | — |
 
 <!-- macos-download:end -->
 
@@ -35,7 +35,7 @@
 
 **macOS 0.2.1 sign-in:** after startup, use the credentials provided for beta access. This shared offline demo login needs no Internet connection or online account. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
 
-**Windows:** download and run the installer for Windows 10/11 x64. This experimental beta is unsigned; SmartScreen or Smart App Control may block it. See [installation instructions](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/INSTALLAZIONE.md#windows-x64) and the [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.1.8-windows.20261104/TrueRenderer-0.1.8-Setup-x64.exe.sha256).
+**Windows:** the download is temporarily unavailable.
 
 [Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-macos.20261105) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
 
