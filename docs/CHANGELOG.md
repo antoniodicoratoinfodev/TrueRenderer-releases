@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.10-macos.20261105
+
+Caricamento iniziale più fluido, con progressione continua da 0 a 100%. Corretto il breve flash durante il passaggio allo spazio di lavoro: logo e fondo restano stabili. Conservati finestra compatta e tempo minimo di visibilità di 1,5 secondi.
+
+macOS Apple Silicon beta; ad-hoc signed, not notarized. Extract the full folder and use Avvia TrueRenderer.command.
+
 ## v0.1.9-macos.20261105
 
 TrueRenderer 0.1.9 for macOS Apple Silicon.
