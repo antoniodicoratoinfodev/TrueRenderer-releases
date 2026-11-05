@@ -11,18 +11,15 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="#downloads">Installation</a> &nbsp;·&nbsp;
   <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-macos.20261105">Release notes</a> &nbsp;·&nbsp;
-  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md">Support</a>
+  <a href="mailto:truerenderer@gmail.com">Support</a>
 </p>
 
 ---
 
 ## Account and beta access
 
-**An account is required to use TrueRenderer.** The current beta uses a shared offline demo account; personal online accounts and commercial licensing are not yet available.
-
-Until the public version is released with the option to purchase a licence or subscription, you can request beta access directly from the owner, development team and technical support at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**.
+**Discover TrueRenderer in beta.** Request access at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** and explore a workspace built around your photographs. An account is required; the current beta uses a shared offline demo account. Personal online accounts, licence purchases and subscriptions will become available with the public version.
 
 ## Downloads
 
@@ -35,15 +32,13 @@ Until the public version is released with the option to purchase a licence or su
 
 <!-- macos-download:end -->
 
-[Installation instructions](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/INSTALLAZIONE.md) · [SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-macos.20261105/SHA256SUMS.txt) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+**Mac:** extract the ZIP, keep the folder together and run **Avvia TrueRenderer.command**. Apple Silicon beta, ad-hoc signed and not notarized.
 
-**Mac:** extract the ZIP, keep the entire folder together and run the included **`.command` launcher**. This experimental beta is ad-hoc signed and is not notarized. Downloads are publicly available; no GitHub account is required.
+**Windows:** run the offline installer. Windows 10/11 x64 with a compatible graphics device/driver; this beta is unsigned. Updates retain your catalog, settings and backups.
 
-**macOS 0.2.1 sign-in:** after startup, sign in with the account provided for beta access. The shared offline demo account needs no Internet connection; personal online accounts are not yet available. Enable **Remember username and password** to prefill both fields on later launches. Credentials are saved in macOS Keychain after a successful sign-in; uncheck the option to delete them immediately. The option is off by default. Sessions are not saved; press **Sign in** again after restarting. The workspace opens at its normal size immediately after sign-in. Use **Menu → Sign out** to return to the compact form. Online account and licence services are not connected in this beta.
+[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-macos.20261105/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
-**Windows:** download and run **TrueRenderer-0.2.1-Setup-x64.exe**. Close TrueRenderer before updating. The offline installer includes the application and its runtime dependencies; no development tools are required. Installation is per user and retains your separate catalog, settings and backups. Requires x64 Windows 10/11 and a compatible graphics device/driver. This beta installer is unsigned. Sign in with the account provided for beta access; **Remember username and password** uses Windows Credential Manager and still requires **Sign in** after restarting. [Windows SHA-256 checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe.sha256) · [Windows release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-windows.20261105).
-
-[Release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.1-macos.20261105) · [Compatibility](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md) · [Roadmap](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/ROADMAP.md) · [Support](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/SUPPORTO.md)
+Sign in with the account provided for beta access. The beta works offline; optional remembered credentials use your system's secure credential store.
 
 ---
 
@@ -55,13 +50,13 @@ RAW development, expressive colour tools and photographic layers in one desktop 
 
 Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
 
-**Your photographs stay local; no photo upload is required.** Access requires an account; the current macOS beta uses a shared offline demo account. Licence and subscription options will become available with the public version.
+**Your photographs stay local; no photo upload is required.**
 
 ## Shape the light. Make the colour yours.
 
 Start with the essentials: exposure, contrast, highlights, shadows and white balance. Go further with editable curves, sampled colour corrections and four-wheel grading for shadows, midtones, highlights and the whole image.
 
-In Develop, use **Auto white balance** to sample an unclipped white or neutral grey region. RAW sampling offers **1×1, 3×3, 5×5 or 11×11** areas, with 5×5 as the default; RGB photographs use a 3×3 sample. The correction can be undone, and **Esc** cancels the eyedropper.
+Natural white balance starts with a neutral point in the scene. Adjustable sampling helps you balance RAW colour with precision.
 
 TrueRenderer works in **linear Rec.2020 floating point**, giving its photographic adjustments a wide numerical range. Histograms, tonal-level sampling and pixel inspection help you connect what you see with the image data.
 
@@ -77,65 +72,23 @@ TrueRenderer works in **linear Rec.2020 floating point**, giving its photographi
 | Bring out detail | Texture, clarity, dehaze, sharpening and luminance/chroma noise reduction |
 | Refine the optics | Manual distortion, vignette, chromatic aberration and defringe controls |
 
-The searchable **Tools** catalogue puts adjustments within reach. Each tool has its own photographic symbol and visual controls; hover over a name to see what it does, in English or Italian.
+The searchable **Tools** catalogue puts adjustments within reach, with visual controls and photographic guidance in English and Italian.
 
-For a vintage texture, use **Creative grain** in **Presence and detail**. Enable **Add grain**, choose **Uniform** or **Gaussian**, then adjust **Grain amount**, **Grain size (px)** and **Grain opacity**. **Monochrome grain** adds neutral grain; turn it off for coloured speckles. **New pattern** changes the arrangement, which is saved with the edit. Disabling the effect keeps its settings. Judge fine grain at 100% with **Verify final rendering**; smaller exports naturally soften it.
+**Creative grain** adds a vintage finish, with monochrome or coloured texture and independent control over size, amount and opacity.
 
 ![Shared photographic and raster Tools beside Grand Teton at sunrise, with Explorer open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/tools.png)
 
 ## Build the look, layer by layer
 
-The larger dot in a Develop section or layer effect switches that tool off and on.
-Disabled tools retain their values, including after saving and reopening the edit.
-An illuminated dot identifies an enabled tool with adjustments.
+Keep different creative decisions independently editable. Photographic layers bring adjustments, masks and retouching together while preserving the original. Switch effects on and off without losing their settings.
 
-Keep different creative decisions independently editable. Add an adjustment to a new photographic layer or to the selected layer, then control where it acts and how strongly it contributes.
-
-Use **Develop**, **Layers**, **Tools** and **Export** on the original photograph.
-**Layer 0 — Starting photo** stays at the bottom of the stack and has its own visibility control.
-Adjustment layers, masks, Paint, Eraser, Clone, Heal, Quick heal and Move remain
-reversible parts of the photo recipe stored in your local library.
-
-**Tools** follows one design in photo and raster editing, with three groups:
-
-- **Shared adjustments:** the searchable colour and tonal catalogue, with the choice of a new layer or the selected layer.
-- **Retouch and selection:** navigation, transformations, brushes, cloning, healing and freehand, polygonal or rectangular selections.
-- **Raster composition:** independent images, blank pixel layers, visible copies and selected pieces. On a photograph, a **Raster** badge identifies commands that require conversion.
+Paint, Eraser, Clone, Heal and Quick heal help refine individual areas. A shared Tools catalogue keeps colour adjustments, retouching and selections close at hand.
 
 ### Continue into raster editing
 
-A raster composition starts with a confirmation. Complete RAW development first
-when possible, then create a separate `.truerenderer` project with the developed
-photo at layer 0 and new content above it. **Editing raster** identifies the mode
-at the top of the inspector. Develop, Layers, Tools and Export keep the same
-workspace and shared controls. **Image layers** contains independent images;
-**Layer adjustments**, under **Adjustments and masks**, edits the selected image.
-Its eye button can hide or reveal the starting photo, including after conversion
-from a photograph whose base was hidden.
+Take a developed photograph into a separate **`.truerenderer` project**, or start with a blank canvas. Combine independent images, pixel layers, adjustments and masks in the same workspace. Projects embed their images and retain editable layers; saving the project remains separate from exporting the finished image.
 
-Return to the original photograph with the return-to-photo command. Its confirmation
-explains that unsaved raster changes will be discarded; saved projects remain
-available. New converted projects retain the original reference when reopened.
-Older projects or moved photographs can be linked to an original through the
-inspector. Save the project to retain that reference.
-
-Create a blank canvas from **Open**, choosing pixel dimensions, units, PPI and
-background. Projects appear beside photographs in the grid and filmstrip. They
-embed their images and keep editable layers, adjustments and masks. Save, Save as
-and Export project copy distinguish the working project from the finished image;
-previous saves are retained as uniquely named `*.previous-*.truerenderer` files.
-
-Photo-based compositions retain the original pixel dimensions and declared X/Y
-PPI. Export size and PPI overrides affect the exported copy. Documents admit up to
-67,108,864 pixels per canvas/image and 2 GiB of raster assets and masks, subject to
-available memory. The reader accepts project versions 1, 2 and 3; new projects
-with an original reference or CMYK destination use version 3. Sensor development
-is embedded as pixels inside the project, so return to the RAW to change its
-sensor white balance or RAW development settings.
-
-Photo retouch uses CPU replay and can be slower on large images. Its bounded
-recipe admits 128 strokes and 1024 total path/selection points within 48 KiB.
-See [compatibility and limits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md).
+Photo-based compositions keep the original dimensions and resolution. A saved reference lets you return to the original photograph for further RAW development. Raster conversion embeds the developed image as pixels; RAW sensor settings remain with the original. Large projects and photo retouching are subject to memory and document limits.
 
 - **Local adjustments:** combine brush, linear and radial gradients, luminance and hue masks; add, subtract, intersect, soften and invert their coverage.
 - **Independent layer controls:** name, duplicate, reorder, hide or lock layers and adjust Opacity and Fill.
@@ -143,19 +96,11 @@ See [compatibility and limits](https://github.com/antoniodicoratoinfodev/TrueRen
 
 ![Photographic layers and editable local adjustments, with Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/layers.png)
 
-**Experiment freely.** Undo, Redo, Reset all and Before/After keep decisions reversible. Double-click a photographic slider to restore its default. Copy selected light, curve and RGB colour adjustments between photographs to carry a treatment through a series.
+**Experiment freely.** Undo, Redo, Reset all and Before/After keep decisions reversible. Reuse selected adjustments across photographs to give a series a consistent treatment.
 
-Photographic sliders move continuously. Hold Shift while dragging for fine adjustments of 0.01 or less, or use the arrow keys; Shift + arrows makes the step ten times smaller. Numeric fields accept additional decimals, including layer opacity and tool settings. Parameters defined as integers retain their units.
+Continuous sliders, precise numeric controls and colour guides make fine adjustments comfortable.
 
-Colour guides appear directly in the slider tracks. The path bar has matching icons to show or hide the left and right panels. The filmstrip toggle is at the right of the bottom status bar. Keyboard shortcuts remain **Cmd/Ctrl+B** for the left panel, **I** for Develop / Information and **T** for the viewer filmstrip.
-
-On macOS, choose **Previews → Embedded** to browse the camera JPEG inside a RAW without developing the sensor. It can work even when TrueRenderer’s independent RAW engine does not support the camera. The view is capped at 2048 pixels and retains the camera’s rendering; FP32 display processing does not restore missing RAW detail or dynamic range. Saved RAW edits are preserved but suspended. Choose **Develop RAW · Full** to resume editing or export. Missing previews and unsupported containers are reported explicitly. First-load time depends on the file and storage; cached navigation can be much faster. See [compatibility and limits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/COMPATIBILITA.md).
-
-On Windows, **Embedded** also supports RGB edits, crop, soft proofing and raster export up to 2048 pixels. The edit recipe is shared with Standard/Full; sensor white balance is preserved but suspended on the camera JPEG. Changing to RAW development can change the rendering. Only visible images and nearby previews are prepared while browsing.
-
-Exposure and tone-curve previews preserve the detail available in the viewer, including at 100%. Later clicks on the interface do not restart a reduced editing preview. Spatial filters and active layers still use provisional previews during adjustments.
-
-While you pause on a photograph in Fit, TrueRenderer prepares its detail and applied adjustments in the background for the first zoom. Preview quality stays unchanged. Immediate zooming, recent edits or limited memory can still require refinement.
+**Embedded previews** let you browse the camera rendering inside supported RAW files, up to 2048 pixels, including some cameras outside the independent engine's support. RAW edits remain preserved while you browse. On Windows, embedded previews also support RGB adjustments, crop and export. Camera previews retain the camera's rendering and do not replace full RAW development.
 
 ## Give every frame the right composition
 
@@ -167,7 +112,7 @@ Rotation, flips, straightening and perspective controls complete the composition
 
 ## See the differences that matter
 
-Choose between two frames with **side-by-side comparison and synchronized navigation**. Assign photographs to A and B from the context menu, keep the pair across folders, and inspect detail at physical 1:1. Use Before/After to compare the initial rendering with your current adjustments.
+Choose between two frames with **side-by-side comparison and synchronized navigation**. Keep a comparison pair across folders, inspect detail at physical 1:1, and use Before/After to see how your adjustments shape the image.
 
 ![Photographic comparison with synchronized navigation and Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/compare.png)
 
@@ -201,40 +146,23 @@ The following camera models and recording modes are currently supported by **Tru
 
 Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features.
 
-**Camera compatibility is expanding.** If one or more of your cameras are not yet supported, send a specific request directly to the owner, development team and technical support at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**. Include the manufacturer, exact model, RAW format, bit depth and compression settings, plus an original RAW sample if available. The developer will work to implement the requested support as soon as possible.
+**Camera compatibility is expanding.** Request support for your camera at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**, with its exact model and RAW recording mode. The developer will work to add requested support as soon as possible.
 
 ## Stay in the photographic flow
 
-GPU acceleration for light and colour adjustments works alongside parallel CPU processing. On a verified Vulkan device, supported combinations of exposure, noise reduction, texture, geometry and layers can stay on the GPU through display. Supported layer stacks reuse the prepared image for sampled colour, light, tonal levels and opacity changes, both at native zoom and in Fit view. Editing keeps the detail of the loaded preview throughout slider, tool and layer gestures; the last complete image stays visible while an update is calculated. Folder loading prepares detail, saved adjustments, thumbnails and the active image's GPU resources, and reuses completed results from the disk cache. Choose foreground loading to finish preparation before browsing, or keep working while it runs in the background. Editing gestures take priority over background preparation. Cache and memory limits still apply; unsupported tool combinations and limited memory can require slower CPU updates. Direct3D 12 retains the separately verified point and layer paths while the complete graph's release compilation remains under investigation.
+GPU acceleration for light and colour works alongside parallel CPU processing. Background preparation and disk caching help you move between photographs, while the last complete image stays visible as an update is calculated. Performance depends on your hardware, image size and active tools; some combinations use CPU processing.
 
-Choose **Standard or Full preview quality**, globally or for an individual photograph. Set CPU, GPU and memory preferences to suit your machine, switch between Fit and physical 1:1, and choose an English or Italian interface with 100%, 150% or 200% UI scaling.
+Move between Fit and physical 1:1 detail, choose preview quality, and tailor CPU, GPU and memory preferences to your machine. English and Italian interfaces offer 100%, 150% and 200% scaling.
 
 ## Finish with the output you need
 
-Choose **sRGB**, **Adobe RGB (1998)**, **Display P3**, **linear Rec.2020** or
-**CMYK with an output ICC** as the destination. **Profile and soft proof** in
-Develop lets you preview the destination while working on a RAW/photo or raster
-composition; the proof remains visible when switching to Layers, Tools or Export.
-Crop keeps your proof setting. Photographic tonal-level input analysis temporarily
-suspends the proof to measure the input pixels, then restores your setting when
-you leave the analysis.
-The working calculations stay in extended linear Rec.2020 at 32 bits.
+Prepare images for screen or print with **sRGB**, **Adobe RGB (1998)**, **Display P3**, **linear Rec.2020** or **CMYK with an output ICC**. Soft proofing previews the destination while you work, with extended linear Rec.2020 calculations at 32 bits.
 
-Photo and raster exports share RGB destinations for **JPEG, PNG and TIFF16**.
-CMYK uses **TIFF16** with four ink channels and the ICC embedded. On macOS, the
-system's generic CMYK profile is available; select a printer-provided ICC for a
-specific printing process. The generic profile does not describe a particular
-printer, paper or ink. Float TIFF and DNG retain their explicit colour contracts.
-
-Export at native resolution or choose a target long edge and output PPI. PNG and
-TIFF offer 16-bit output; floating-point TIFF preserves extended values in the
-photo workflow. Project saving remains separate from exporting the finished image.
+Export photographs and raster compositions as **JPEG, PNG or TIFF16**, at native resolution or a chosen size and PPI. CMYK TIFF16 embeds your output profile; a printer-provided ICC matches the intended printing process. Floating-point TIFF preserves extended values in the photo workflow, while DNG export retains the decoded sensor mosaic.
 
 For scientific imagery, TrueRenderer also opens **2D FITS images**, with linear or asinh display, a histogram and native-value inspection.
 
 ## Try it with the included photographs
-
-Open an image or a folder, select a photograph and choose **Develop**. Use **Adjustments** for the essentials, **Tools** to find a creative control, and **Layers** to build a local treatment. The **Actions** menu gives you looks, crop, copy/paste and output verification.
 
 Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
 
