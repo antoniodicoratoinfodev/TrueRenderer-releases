@@ -32,7 +32,7 @@
 
 <!-- macos-download:end -->
 
-**Mac:** extract the ZIP, keep the folder together and run **Avvia TrueRenderer.command**. Apple Silicon beta, ad-hoc signed and not notarized.
+**Mac:** extract the ZIP, keep the folder together and run the included **`.command` launcher**. Apple Silicon beta, ad-hoc signed and not notarized.
 
 **Windows:** run the offline installer. Windows 10/11 x64 with a compatible graphics device/driver; this beta is unsigned. Updates retain your catalog, settings and backups.
 
