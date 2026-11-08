@@ -29,6 +29,7 @@
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-macos.20261108/TrueRenderer-0.2.3-macos.20261108-arm64.zip)** | 0.2.3 · Beta |
 | **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-windows.20261108/TrueRenderer-0.2.3-Setup-x64.exe)** | 0.2.3 · Beta |
+| **Linux** | **Coming soon** | — |
 
 <!-- macos-download:end -->
 
