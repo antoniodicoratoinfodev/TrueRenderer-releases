@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.2-macos.20261105">Release notes</a> &nbsp;·&nbsp;
+  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.3-macos.20261108">Release notes</a> &nbsp;·&nbsp;
   <a href="mailto:truerenderer@gmail.com">Support</a>
 </p>
 
@@ -27,7 +27,7 @@
 
 | Platform | Download | Version |
 |---|---|---|
-| **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.2-macos.20261105/TrueRenderer-0.2.2-macos.20261105-arm64.zip)** | 0.2.2 · Beta |
+| **macOS · Apple Silicon** | **[Download for Mac — ZIP · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-macos.20261108/TrueRenderer-0.2.3-macos.20261108-arm64.zip)** | 0.2.3 · Beta |
 | **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe)** | 0.2.1 · Beta |
 
 <!-- macos-download:end -->
@@ -36,7 +36,7 @@
 
 **Windows:** run the offline installer. Windows 10/11 x64 with a compatible graphics device/driver; this beta is unsigned. Updates retain your catalog, settings and backups.
 
-[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.2-macos.20261105/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-macos.20261108/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.1-windows.20261105/TrueRenderer-0.2.1-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 Sign in with the account provided for beta access. The beta works offline; optional remembered credentials use your system's secure credential store.
 
