@@ -29,7 +29,6 @@
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3.2-macos.20261108/TrueRenderer-0.2.3.2-macos.20261108-arm64.pkg)** | 0.2.3.2 · Beta |
 | **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-windows.20261108/TrueRenderer-0.2.3-Setup-x64.exe)** | 0.2.3 · Beta |
-| **Linux** | **Coming soon** | — |
 
 <!-- macos-download:end -->
 
@@ -39,136 +38,91 @@
 
 [Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3.2-macos.20261108/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.3-windows.20261108/TrueRenderer-0.2.3-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
-Sign in with the account provided for beta access. The beta works offline; optional remembered credentials use your system's secure credential store.
+The beta works offline. Sign in with the account provided for beta access.
 
 ---
 
-## A workspace for your photographs
+## Your vision, from first frame to final image
 
-RAW development, expressive colour tools and photographic layers in one desktop workspace. TrueRenderer takes you from choosing your best frames to shaping the final image, with your originals untouched and your work stored locally.
+The light, the colour, the details that made you stop and take the photograph. **TrueRenderer gives you the tools to make them yours.** Develop RAW files, shape a personal look and refine your images in a desktop workspace that keeps your originals untouched.
 
-![Avalanche Lake in Develop, with Explorer open and white-balance and light controls](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/develop.png)
+**Your photographs stay on your computer. No photo upload required.**
 
-Bring out the light you remember. Give a series its own colour palette. Refine one part of a photograph without changing the rest. Compare your decisions as you work, then export at the size and precision you need.
+![A photograph open in TrueRenderer Develop](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/develop.png)
 
-**Your photographs stay local; no photo upload is required.**
+## Find the light. Make the colour yours.
 
-## Shape the light. Make the colour yours.
+Bring balance to a difficult exposure, recover the mood in a landscape or give a series a distinctive palette. Start with a **Linear or Standard photo profile**, then shape the result with light, colour and detail tools.
 
-Start with the essentials: exposure, contrast, highlights, shadows and white balance. Go further with editable curves, sampled colour corrections and four-wheel grading for shadows, midtones, highlights and the whole image.
-
-Natural white balance starts with a neutral point in the scene. Adjustable sampling helps you balance RAW colour with precision.
-
-TrueRenderer works in **linear Rec.2020 floating point**, giving its photographic adjustments a wide numerical range. Histograms, tonal-level sampling and pixel inspection help you connect what you see with the image data.
-
-![Four-wheel grading on a photographic layer, with Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/colour.png)
-
-| Make the image your own | Tools to get there |
+| Your creative intent | Your tools |
 |---|---|
-| Balance light | Exposure, brightness, contrast, highlights, shadows, whites, blacks and automatic exposure |
-| Set the white balance | RAW Temperature and Tint, As shot, automatic balance and neutral-area sampling |
-| Sculpt the tones | Point curves, individual RGB curves, luminance and parametric curves; tonal levels with histograms and black, grey and white samplers |
-| Refine individual colours | Saturation, vibrance, eight-band HSL, sampled colour and uniformity controls; selective colour and channel mixing |
-| Create a signature palette | Four-wheel grading, colorize, colour filters, gradient maps and black-and-white mixing |
-| Bring out detail | Texture, clarity, dehaze, sharpening and luminance/chroma noise reduction |
-| Refine the optics | Manual distortion, vignette, chromatic aberration and defringe controls |
+| Balance the scene | Exposure, brightness, contrast, highlights, shadows, whites and blacks |
+| Set the mood | White balance, curves, colour grading and black-and-white mixing |
+| Refine a palette | HSL, selective colour, sampled colour corrections and channel mixing |
+| Bring out detail | Texture, clarity, dehaze, sharpening and noise reduction |
+| Add character | Creative grain, colour filters and gradient maps |
+| Finish the composition | Crop, straighten, rotate, perspective and manual lens corrections |
 
-The searchable **Tools** catalogue puts adjustments within reach, with visual controls and photographic guidance in English and Italian.
+Explore colour with **four-wheel grading** for shadows, midtones, highlights and the whole photograph. Fine-tune a single hue, warm the light or build a look you can reuse across a collection.
 
-**Creative grain** adds a vintage finish, with monochrome or coloured texture and independent control over size, amount and opacity.
+![Four-wheel colour grading in TrueRenderer](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/colour.png)
 
-![Shared photographic and raster Tools beside Grand Teton at sunrise, with Explorer open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/tools.png)
+## Give every detail its own attention
 
-## Build the look, layer by layer
+Brighten a face, deepen a sky or guide the eye through a scene. **Editable layers and masks** let you refine individual areas while keeping your creative choices independent.
 
-Keep different creative decisions independently editable. Photographic layers bring adjustments, masks and retouching together while preserving the original. Switch effects on and off without losing their settings.
+Brushes, linear and radial gradients, luminance and hue masks help you place each adjustment. Clone, Heal and Quick heal bring retouching into the same workspace. Save favourite looks and choose how strongly to apply them to another photograph.
 
-Paint, Eraser, Clone, Heal and Quick heal help refine individual areas. A shared Tools catalogue keeps colour adjustments, retouching and selections close at hand.
+**Experiment freely:** compare Before and After, undo a change or try an independent photo copy. Transfer selected adjustments, layers and retouching across a series for a consistent visual style.
 
-### Continue into raster editing
+![Editable photographic layers and local adjustments](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/layers.png)
 
-Take a developed photograph into a separate **`.truerenderer` project**, or start with a blank canvas. Combine independent images, pixel layers, adjustments and masks in the same workspace. Projects embed their images and retain editable layers; saving the project remains separate from exporting the finished image.
+## Go beyond a single photograph
 
-Photo-based compositions keep the original dimensions and resolution. A saved reference lets you return to the original photograph for further RAW development. Raster conversion embeds the developed image as pixels; RAW sensor settings remain with the original. Large projects and photo retouching are subject to memory and document limits.
+Turn a developed image into a composition, or begin with a blank canvas. Combine images, pixel layers, adjustments and masks in an editable **`.truerenderer` project**. Reorder elements, refine their opacity and return to your composition later with its layers intact.
 
-- **Local adjustments:** combine brush, linear and radial gradients, luminance and hue masks; add, subtract, intersect, soften and invert their coverage.
-- **Independent layer controls:** name, duplicate, reorder, hide or lock layers and adjust Opacity and Fill.
-- **Reusable looks:** save selected layers, preview them on another photograph and choose their intensity, with optional masks.
+A searchable **Tools** catalogue keeps photographic and raster editing close at hand, with an interface available in **English and Italian**.
 
-![Photographic layers and editable local adjustments, with Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/layers.png)
+![The TrueRenderer Tools workspace](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/tools.png)
 
-**Experiment freely.** Undo, Redo, Reset all and Before/After keep decisions reversible. Reuse selected adjustments across photographs to give a series a consistent treatment.
+## Choose the frame that tells the story
 
-Continuous sliders, precise numeric controls and colour guides make fine adjustments comfortable.
+Browse a shoot in the thumbnail grid or stay immersed in a photograph with the filmstrip. **Side-by-side comparison with synchronized zoom and navigation** helps you judge expression, focus and fine detail together.
 
-**Embedded previews** let you browse the camera rendering inside supported RAW files, up to 2048 pixels, including some cameras outside the independent engine's support. RAW edits remain preserved while you browse. On Windows, embedded previews also support RGB adjustments, crop and export. Camera previews retain the camera's rendering and do not replace full RAW development.
+Move from the whole composition to **1:1 detail**. Keep your favourites close with star ratings, colour labels, keywords and reject flags. Folder browsing, search and filters help you find the photographs you want to develop next.
 
-## Give every frame the right composition
+![Side-by-side photographic comparison](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/compare.png)
 
-Crop directly on the photograph with draggable edges, a rule-of-thirds grid and free, original, preset or custom aspect ratios. Lock the proportions, switch orientation, move the frame or move the photograph inside it. Keyboard controls help with fine adjustments.
+Background preview preparation and caching help you move through your photographs. GPU acceleration and parallel processing support the editing workflow; performance varies with your hardware, image size and chosen tools.
 
-Rotation, flips, straightening and perspective controls complete the composition tools. Masks follow the photograph through crop and rotation, and the original remains available for a different framing later.
+## Start with your RAW files
 
-![Interactive crop with aspect-ratio controls, a composition grid and Explorer open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/crop.png)
+On macOS, **trueRendererExperimental 32fp** is TrueRenderer's independent RAW engine. Its floating-point processing gives you room to work with light and colour, supported by white-balance controls and sensor-mosaic DNG export.
 
-## See the differences that matter
+### Independent engine camera compatibility
 
-Choose between two frames with **side-by-side comparison and synchronized navigation**. Keep a comparison pair across folders, inspect detail at physical 1:1, and use Before/After to see how your adjustments shape the image.
+| Camera | Supported recording mode |
+|---|---|
+| **Nikon D750** | NEF · full-frame FX · 14-bit lossless compressed |
+| **Nikon D800** | NEF · full-frame FX · 12-bit or 14-bit lossless compressed |
+| **Fujifilm X-T5** | RAF · full resolution · 14-bit lossy compressed |
 
-![Photographic comparison with synchronized navigation and Library open](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/compare.png)
+Supported Bayer and X-Trans **DNG files** can also use the independent engine; compatibility depends on compression and calibration features. Embedded camera previews let you browse some additional RAW cameras. On Windows, these previews also support RGB adjustments, crop and export; they do not replace full RAW development.
 
-Shutter speed, aperture, ISO, focal length and lens information sit alongside the image, helping you understand each frame as you select and develop it.
+**Have a camera compatibility question?** [Contact us](mailto:truerenderer@gmail.com) with your exact camera model and RAW recording mode.
 
-## Find your keepers. Keep them organized.
+## Ready for screen, ready for print
 
-Browse folders in **Explorer**, review a thumbnail grid in **Library**, or stay with the photograph and its filmstrip. Favourites, navigation history, search and filters help you return to the images that matter.
+Finish your photographs and compositions with **JPEG, PNG and TIFF export**, at original dimensions or your chosen size and resolution. Work with sRGB, Adobe RGB (1998), Display P3 and linear Rec.2020, or prepare CMYK output with a printer-provided ICC profile.
 
-Use **star ratings, colour labels, reject flags and keywords** to organize a shoot. Context menus bring ratings, comparison, adjustments, file navigation and export to the photograph you are working on.
+**Soft proofing** helps you preview a destination while you edit. Floating-point TIFF and sensor-mosaic DNG export offer additional options for the photographic workflow.
 
-![The photograph grid with Explorer open on the demonstration gallery](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/library.png)
+## Open it. Explore it. Make it yours.
 
-Your originals remain read-only. Editing recipes, annotations and saved looks live in the local library and its backups.
+Four public-domain landscapes are included under **Sample photos**, so you can explore the tools before opening your own collection.
 
-## TrueRenderer RAW rendering
-
-**TrueRenderer** is our independent RAW engine, available on macOS as **trueRendererExperimental 32fp**. New macOS profiles select this engine automatically. Its 32-bit floating-point pipeline preserves negative values and values above nominal white. Independent decoding, directional reconstruction and sensor-aware highlight treatment give it a dedicated path from the sensor mosaic to the developed image.
-
-TrueRenderer includes Temperature and Tint controls, neutral-area white-balance sampling, an As shot reset and DNG export of the decoded sensor mosaic. Its fp32 headroom is a concrete advantage; the best-looking rendering still depends on the photograph and the adjustments you choose.
-
-### Camera compatibility
-
-The following camera models and recording modes are currently supported by **TrueRenderer's independent engine**:
-
-| Camera | RAW format | Supported recording modes |
-|---|---|---|
-| **Nikon D750** | NEF · Bayer | Full-frame FX, 14-bit lossless compressed RAW |
-| **Nikon D800** | NEF · Bayer | Full-frame FX, 12-bit or 14-bit lossless compressed RAW |
-| **Fujifilm X-T5** | RAF · X-Trans | Full-resolution, 14-bit lossy compressed RAW |
-
-Supported Bayer and X-Trans **DNG files** can also use the independent engine. Compatibility depends on the file's compression and calibration features.
-
-For camera compatibility questions, contact **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** with the exact model and RAW recording mode.
-
-## Stay in the photographic flow
-
-GPU acceleration for light and colour works alongside parallel CPU processing. Background preparation and disk caching help you move between photographs, while the last complete image stays visible as an update is calculated. Performance depends on your hardware, image size and active tools; some combinations use CPU processing.
-
-Move between Fit and physical 1:1 detail, choose preview quality, and tailor CPU, GPU and memory preferences to your machine. English and Italian interfaces offer 100%, 150% and 200% scaling.
-
-## Finish with the output you need
-
-Prepare images for screen or print with **sRGB**, **Adobe RGB (1998)**, **Display P3**, **linear Rec.2020** or **CMYK with an output ICC**. Soft proofing previews the destination while you work, with extended linear Rec.2020 calculations at 32 bits.
-
-Export photographs and raster compositions as **JPEG, PNG or TIFF16**, at native resolution or a chosen size and PPI. CMYK TIFF16 embeds your output profile; a printer-provided ICC matches the intended printing process. Floating-point TIFF preserves extended values in the photo workflow, while DNG export retains the decoded sensor mosaic.
-
-For scientific imagery, TrueRenderer also opens **2D FITS images**, with linear or asinh display, a histogram and native-value inspection.
-
-## Try it with the included photographs
-
-Four public-domain landscapes are included in **Library**, under **Sample photos**, including in the macOS bundle for offline use. Start there to explore the workspace. Photograph credits are included in [NOTICE.md](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
-
+**[Download the beta](#downloads)** and start shaping your next photograph. For beta access, camera questions or support, write to **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**.
 
 ## Rights and credits
 
-TrueRenderer is proprietary software. Access to this repository does not grant a general license to run or redistribute it; prior permission from the owner remains required under the unchanged [license](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/LICENSE). See [third-party notices and photograph credits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
-
+TrueRenderer is proprietary software, available with the owner's permission under its [license](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/LICENSE). See [third-party notices and photograph credits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
