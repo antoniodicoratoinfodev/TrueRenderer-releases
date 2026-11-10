@@ -48,7 +48,7 @@ The light, the colour, the details that made you stop and take the photograph. *
 
 **Your photographs stay on your computer. No photo upload required.**
 
-![A photograph open in TrueRenderer Develop](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/develop.png)
+![A photograph open in TrueRenderer Develop](assets/develop.png)
 
 ## Find the light. Make the colour yours.
 
@@ -65,7 +65,7 @@ Bring balance to a difficult exposure, recover the mood in a landscape or give a
 
 Explore colour with **four-wheel grading** for shadows, midtones, highlights and the whole photograph. Fine-tune a single hue, warm the light or build a look you can reuse across a collection.
 
-![Four-wheel colour grading in TrueRenderer](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/colour.png)
+![Four-wheel colour grading in TrueRenderer](assets/colour.png)
 
 ## Give every detail its own attention
 
@@ -75,7 +75,7 @@ Brushes, linear and radial gradients, luminance and hue masks help you place eac
 
 **Experiment freely:** compare Before and After, undo a change or try an independent photo copy. Transfer selected adjustments, layers and retouching across a series for a consistent visual style.
 
-![Editable photographic layers and local adjustments](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/layers.png)
+![Editable photographic layers and local adjustments](assets/layers.png)
 
 ## Go beyond a single photograph
 
@@ -83,7 +83,7 @@ Turn a developed image into a composition, or begin with a blank canvas. Combine
 
 A searchable **Tools** catalogue keeps photographic and raster editing close at hand, with an interface available in **English and Italian**.
 
-![The TrueRenderer Tools workspace](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/tools.png)
+![The TrueRenderer Tools workspace](assets/tools.png)
 
 ## Choose the frame that tells the story
 
@@ -91,7 +91,9 @@ Browse a shoot in the thumbnail grid or stay immersed in a photograph with the f
 
 Move from the whole composition to **1:1 detail**. Keep your favourites close with star ratings, colour labels, keywords and reject flags. Folder browsing, search and filters help you find the photographs you want to develop next.
 
-![Side-by-side photographic comparison](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/raw/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/assets/compare.png)
+![Side-by-side photographic comparison](assets/compare.png)
+
+Albums collect selected photographs without moving their originals. In the grid, choose an area in the side preview and keep its focus-inspection zoom while moving between photographs.
 
 Background preview preparation and caching help you move through your photographs. GPU acceleration and parallel processing support the editing workflow; performance varies with your hardware, image size and chosen tools.
 
