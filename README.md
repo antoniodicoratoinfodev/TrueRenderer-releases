@@ -28,7 +28,7 @@
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 60 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.4-macos.20261109/TrueRenderer-0.2.4-macos.20261109-arm64.pkg)** | 0.2.4 · Beta |
-| **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.4.1-windows.20261110/TrueRenderer-0.2.4.1-Setup-x64.exe)** | 0.2.4 · Beta |
+| **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.4.1-windows.20261110/TrueRenderer-0.2.4.1-Setup-x64.exe)** | 0.2.4.1 · Beta |
 
 <!-- macos-download:end -->
 
