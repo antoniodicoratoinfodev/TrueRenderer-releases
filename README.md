@@ -44,7 +44,7 @@ The beta works offline. Sign in with the account provided for beta access.
 
 ## Explore the workspace
 
-**Gallery preview:** these screenshots show macOS development build 0.2.9.1. The downloadable betas above are earlier versions; some illustrated features are awaiting a future installer update.
+**Gallery:** these screenshots show macOS 0.2.9.1, now available in the Mac download above. The Windows beta is an earlier version; its interface and available features may differ.
 
 
 
