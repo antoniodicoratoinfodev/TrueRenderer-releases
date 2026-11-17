@@ -133,7 +133,7 @@ Trace an irregular region directly on the photo. Replace, add, subtract or inter
 
 Place vertices around a subject with straight edges; double-click or press Enter to close the outline. Combine it with an existing selection and set feathering before making the next selection.
 
-<a href="assets/readme-polygon-panel.png"><img src="assets/readme-polygon-panel.png" width="320" alt="Polygonal selection controls"></a>
+<a href="assets/readme-polygon-panel.png"><img src="assets/readme-polygon-panel.png" width="320" alt="Polygonal selection modes and feather radius"></a>
 
 ### Rectangular selection
 
@@ -148,7 +148,7 @@ Drag out a rectangular region for a quick, precise selection. Use replace, add, 
 
 Start with a photo profile, then balance white balance, exposure and the tonal range. The Light controls give separate access to brightness, contrast, highlights, shadows, whites and blacks.
 
-<a href="assets/readme-develop-panel.png"><img src="assets/readme-develop-panel.png" width="320" alt="White balance and light controls"></a>
+<a href="assets/readme-develop-panel.png"><img src="assets/readme-develop-panel.png" width="320" alt="Photo profile, RGB white balance and exposure sliders"></a>
 
 ### Export
 
@@ -182,7 +182,7 @@ Shape contrast and colour with a composite RGB curve or separate red, green and 
 
 Set the input black point, white point and gamma, then refine the output range. Composite and individual channel controls let you balance the overall image or a specific channel.
 
-<a href="assets/readme-levels-panel.png"><img src="assets/readme-levels-panel.png" width="320" alt="Tonal levels controls"></a>
+<a href="assets/readme-levels-panel.png"><img src="assets/readme-levels-panel.png" width="320" alt="Black point, white point, gamma and output range controls"></a>
 
 
 ### Mixer and monochrome
@@ -241,7 +241,7 @@ Apply a common hue with separate chroma and brightness controls. Increase the am
 
 Refine exposure, brightness, contrast, shadows, highlights, blacks and whites on a layer. Mask the layer to give one part of the image its own tonal balance.
 
-<a href="assets/readme-tonal-panel.png"><img src="assets/readme-tonal-panel.png" width="320" alt="Tonal controls controls"></a>
+<a href="assets/readme-tonal-panel.png"><img src="assets/readme-tonal-panel.png" width="320" alt="Exposure, brightness and shadow and highlight controls"></a>
 
 ### Exposure, offset and gamma
 
@@ -321,7 +321,7 @@ Sample a colour on the photograph and control the hue, chroma and luminance widt
 
 Browse a shoot in the grid and filmstrip, search filenames and keywords, and narrow the selection with ratings and labels. Manual and smart albums collect references to photographs without moving the originals.
 
-<a href="assets/readme-grid-panel.png"><img src="assets/readme-grid-panel.png" width="600" alt="Photo browser controls"></a>
+<a href="assets/readme-grid-panel.png"><img src="assets/readme-grid-panel.png" width="600" alt="Photo grid with four landscape thumbnails and the Avalanche Lake image selected"></a>
 
 ### Compare
 
@@ -340,7 +340,7 @@ Read image dimensions, format and available capture data alongside the photograp
 
 Return to a saved editing state or move forward again with Undo/Redo. The history keeps previous decisions accessible as you explore different versions of a photograph.
 
-<a href="assets/readme-history-panel.png"><img src="assets/readme-history-panel.png" width="320" alt="Editable history controls"></a>
+<a href="assets/readme-history-panel.png"><img src="assets/readme-history-panel.png" width="320" alt="Photo editing history with Undo, Redo and three saved states"></a>
 
 
 
