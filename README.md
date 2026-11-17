@@ -350,6 +350,46 @@ Return to a saved editing state or move forward again with Undo/Redo. The histor
 
 
 
+## Choose your workspace theme
+
+Six interface themes let you choose the workspace you prefer. Each example shows the same Grand Teton photograph in Before view, with menus and settings closed. Themes change the interface; the photograph and its surround stay independent.
+
+### Standard
+
+The default graphite workspace, with neutral panels and ivory accents.
+
+<img src="assets/readme-theme-standard.png" width="960" alt="TrueRenderer full workspace in the Standard theme">
+
+### Black
+
+Deep black surfaces keep the workspace dark around the photograph.
+
+<img src="assets/readme-theme-black.png" width="960" alt="TrueRenderer full workspace in the Black theme">
+
+### Soft black
+
+A lighter dark palette with softer separation between panels.
+
+<img src="assets/readme-theme-black-soft.png" width="960" alt="TrueRenderer full workspace in the Soft black theme">
+
+### Neutral gray
+
+A mid-gray workspace with dark text and neutral controls.
+
+<img src="assets/readme-theme-neutral-gray.png" width="960" alt="TrueRenderer full workspace in the Neutral gray theme">
+
+### White 80%
+
+Light gray panels offer a brighter workspace with a softer appearance than white.
+
+<img src="assets/readme-theme-white-80.png" width="960" alt="TrueRenderer full workspace in the White 80% theme">
+
+### White
+
+A white workspace with dark text and clearly defined controls.
+
+<img src="assets/readme-theme-white.png" width="960" alt="TrueRenderer full workspace in the White theme">
+
 ## Rights and credits
 
 TrueRenderer is proprietary software, available with the owner's permission under its [license](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/LICENSE). See [third-party notices and photograph credits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).
