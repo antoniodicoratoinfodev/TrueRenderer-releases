@@ -77,82 +77,202 @@ Availability depends on platform, camera and recording mode. TrueRenderer is cur
 
 These are cropped screenshots of the actual controls. Selecting a tool for a screenshot does not apply it to the photograph.
 
-| Navigate | Move / transform |
-| --- | --- |
-| <img src="assets/readme-navigate-panel.png" width="340" alt="Navigate controls"> | <img src="assets/readme-transform-panel.png" width="340" alt="Move / transform controls"> |
-| Pan and explore the photograph. | Position, scale, rotate and resize photo or layer content. |
+### Navigate
 
-| Brush | Eraser |
-| --- | --- |
-| <img src="assets/readme-brush-panel.png" width="340" alt="Brush controls"> | <img src="assets/readme-eraser-panel.png" width="340" alt="Eraser controls"> |
-| Paint with adjustable radius, hardness, amount and colour. | Control transparency with adjustable brush settings. |
+Use this tool to inspect the frame and move around the image before choosing a retouch or selection tool. Hold Space to pan the view.
 
-| Clone | Heal |
-| --- | --- |
-| <img src="assets/readme-clone-panel.png" width="340" alt="Clone controls"> | <img src="assets/readme-heal-panel.png" width="340" alt="Heal controls"> |
-| Sample a source with Option/Alt-click and copy an area. | Repair an area using an adapted source sample. |
+<img src="assets/readme-navigate-panel.png" width="440" alt="Navigate controls">
 
-| Quick heal | Freehand selection |
-| --- | --- |
-| <img src="assets/readme-quick-heal-panel.png" width="340" alt="Quick heal controls"> | <img src="assets/readme-freehand-panel.png" width="340" alt="Freehand selection controls"> |
-| Repair small defects using a nearby source. | Draw a selection, combine regions and feather its edge. |
+### Move / transform
 
-| Polygonal selection | Rectangular selection |
-| --- | --- |
-| <img src="assets/readme-polygon-panel.png" width="340" alt="Polygonal selection controls"> | <img src="assets/readme-rectangle-panel.png" width="340" alt="Rectangular selection controls"> |
-| Build a selection from vertices, with edge feathering. | Drag a rectangle; replace, add, subtract or intersect selections. |
+Set horizontal and vertical position, rotation and scale for the photograph or selected layer. Use the size controls to refine proportions; Option/Alt preserves proportions when dragging a corner.
+
+<img src="assets/readme-transform-panel.png" width="440" alt="Move / transform controls">
+
+
+### Brush
+
+Choose a colour and build a painted correction on the photo or selected layer. Radius sets the brush size, hardness shapes the edge and amount controls its strength.
+
+<img src="assets/readme-brush-panel.png" width="440" alt="Brush controls">
+
+### Eraser
+
+Remove content under the brush to reveal transparency. Adjust radius, hardness and amount for a broad soft transition or a more precise edge.
+
+<img src="assets/readme-eraser-panel.png" width="440" alt="Eraser controls">
+
+
+### Clone
+
+Option/Alt-click a source point, then paint where you want to copy that detail. Radius, hardness and amount help blend the copied area into its surroundings.
+
+<img src="assets/readme-clone-panel.png" width="440" alt="Clone controls">
+
+### Heal
+
+Option/Alt-click to choose a source, then paint over the area to repair. Healing adapts the sampled detail to the destination, helping small corrections sit naturally in the image.
+
+<img src="assets/readme-heal-panel.png" width="440" alt="Heal controls">
+
+
+### Quick heal
+
+Paint over a small defect and let the tool use nearby image content as its source. It needs an opaque area with a complete nearby source and may be less suitable near edges.
+
+<img src="assets/readme-quick-heal-panel.png" width="440" alt="Quick heal controls">
+
+### Freehand selection
+
+Trace an irregular region directly on the photo. Replace, add, subtract or intersect regions, then feather the edge for a softer transition.
+
+<img src="assets/readme-freehand-panel.png" width="440" alt="Freehand selection controls">
+
+
+### Polygonal selection
+
+Place vertices around a subject with straight edges; double-click or press Enter to close the outline. Combine it with an existing selection and set feathering before making the next selection.
+
+<img src="assets/readme-polygon-panel.png" width="440" alt="Polygonal selection controls">
+
+### Rectangular selection
+
+Drag out a rectangular region for a quick, precise selection. Use replace, add, subtract or intersect to combine regions and feather the edge when needed.
+
+<img src="assets/readme-rectangle-panel.png" width="440" alt="Rectangular selection controls">
+
 
 ## Develop, layers and export
 
-| Develop | Layers | Export |
-| --- | --- | --- |
-| <img src="assets/readme-develop-panel.png" width="280" alt="White balance and light controls"> | <img src="assets/readme-layers-panel.png" width="280" alt="Layer stack before adding adjustments"> | <img src="assets/readme-export-panel.png" width="280" alt="Export format, colour and dimension controls"> |
-| Start with a photo profile and refine light and colour. | Add independent adjustments and control where they apply. | Choose output format, colour profile and image size. |
+### Develop
+
+Start with a photo profile, then balance white balance, exposure and the tonal range. The Light controls give separate access to brightness, contrast, highlights, shadows, whites and blacks.
+
+<img src="assets/readme-develop-panel.png" width="440" alt="White balance and light controls">
+
+### Layers
+
+Keep adjustments in independently editable layers. Add a correction, select its layer and use a mask when the change should affect only part of the photograph.
+
+<img src="assets/readme-layers-panel.png" width="440" alt="Layer stack before adding adjustments">
+
+### Export
+
+Choose JPEG, PNG or TIFF, a destination colour profile and the output size. Set quality and resolution where appropriate, then create a new output file while retaining the source.
+
+<img src="assets/readme-export-panel.png" width="440" alt="Export format, colour and dimension controls">
+
 
 ## Sixteen ways to shape light and colour
 
-| Color editor | Local light and color |
-| --- | --- |
-| <img src="assets/readme-sample-editor-panel.png" width="340" alt="Color editor controls"> | <img src="assets/readme-light-panel.png" width="340" alt="Local light and color controls"> |
-| Sample a colour range; refine hue, saturation and luminance with Basic, Advanced and Uniformity controls. | Exposure, warmth, tint and saturation. |
+### Color editor
 
-| RGB point curves | Tonal levels |
-| --- | --- |
-| <img src="assets/readme-curves-panel.png" width="340" alt="RGB point curves controls"> | <img src="assets/readme-levels-panel.png" width="340" alt="Tonal levels controls"> |
-| Composite RGB and independent red, green and blue curves. | Black and white points, gamma and output range. |
+Sample a colour on the photograph and refine just that range. Basic, Advanced and Uniformity views help adjust hue, saturation and luminance, control the range and bring its colours closer together.
 
-| Mixer and monochrome | Channel mixer |
-| --- | --- |
-| <img src="assets/readme-mixer-panel.png" width="340" alt="Mixer and monochrome controls"> | <img src="assets/readme-channels-panel.png" width="340" alt="Channel mixer controls"> |
-| Hue, saturation and luminance across eight colour families. | RGB channel contributions and per-channel offset. |
+<img src="assets/readme-sample-editor-panel.png" width="440" alt="Color editor controls">
 
-| Four-wheel grading | Black and white mixer |
-| --- | --- |
-| <img src="assets/readme-grading-panel.png" width="340" alt="Four-wheel grading controls"> | <img src="assets/readme-black_white-panel.png" width="340" alt="Black and white mixer controls"> |
-| Separate shadows, midtones, highlights and global colour, with balance. | Monochrome conversion with eight colour brightness controls. |
+### Local light and color
 
-| Color filter | Gradient map |
-| --- | --- |
-| <img src="assets/readme-filter-panel.png" width="340" alt="Color filter controls"> | <img src="assets/readme-gradient_map-panel.png" width="340" alt="Gradient map controls"> |
-| Tint and density, with optional luminance preservation. | Map luminance to an editable colour palette. |
+Balance a region with exposure, RGB warmth, tint and saturation in one adjustment. Pair it with a mask to work on a foreground, background or other selected area.
 
-| Selective color | Colorize |
-| --- | --- |
-| <img src="assets/readme-selective_color-panel.png" width="340" alt="Selective color controls"> | <img src="assets/readme-colorize-panel.png" width="340" alt="Colorize controls"> |
-| C/M/Y/K controls in nine colour families; relative or absolute. | A common hue with separate chroma and brightness. |
+<img src="assets/readme-light-panel.png" width="440" alt="Local light and color controls">
 
-| Tonal controls | Exposure, offset and gamma |
-| --- | --- |
-| <img src="assets/readme-tonal-panel.png" width="340" alt="Tonal controls controls"> | <img src="assets/readme-exposure_gamma-panel.png" width="340" alt="Exposure, offset and gamma controls"> |
-| Layer exposure, brightness, contrast, shadows, highlights, blacks and whites. | Gain, offset and power controls for RGB. |
 
-| Luminance curve | Parametric curves |
-| --- | --- |
-| <img src="assets/readme-luminance_curve-panel.png" width="340" alt="Luminance curve controls"> | <img src="assets/readme-parametric_curve-panel.png" width="340" alt="Parametric curves controls"> |
-| A point curve on luminance, preserving colour differences. | Four tonal zones and three boundaries, in luminance or RGB. |
+### RGB point curves
+
+Shape contrast and colour with a composite RGB curve or separate red, green and blue curves. Add points and refine their input/output coordinates to control particular parts of the tonal range.
+
+<img src="assets/readme-curves-panel.png" width="440" alt="RGB point curves controls">
+
+### Tonal levels
+
+Set the input black point, white point and gamma, then refine the output range. Composite and individual channel controls let you balance the overall image or a specific channel.
+
+<img src="assets/readme-levels-panel.png" width="440" alt="Tonal levels controls">
+
+
+### Mixer and monochrome
+
+Choose one of eight colour families and adjust its hue, saturation and luminance. Use it to refine a palette or explore a monochrome treatment with the black-and-white option.
+
+<img src="assets/readme-mixer-panel.png" width="440" alt="Mixer and monochrome controls">
+
+### Channel mixer
+
+Control how the red, green and blue inputs contribute to each output channel. Per-channel offsets add another way to adjust colour balance and create deliberate colour treatments.
+
+<img src="assets/readme-channels-panel.png" width="440" alt="Channel mixer controls">
+
+
+### Four-wheel grading
+
+Choose shadows, midtones, highlights or the global range, then set its hue, chroma and luminance. Tonal transitions control how the ranges meet for a more unified grade.
+
+<img src="assets/readme-grading-panel.png" width="440" alt="Four-wheel grading controls">
+
+### Black and white mixer
+
+Convert the image to monochrome, then balance the brightness of eight original colour families. These controls help separate subjects that have similar brightness but different colours.
+
+<img src="assets/readme-black_white-panel.png" width="440" alt="Black and white mixer controls">
+
+
+### Color filter
+
+Choose a filter hue and increase density to introduce a warm, cool or creative tint. Luminance preservation lets you retain brightness while changing the colour treatment.
+
+<img src="assets/readme-filter-panel.png" width="440" alt="Color filter controls">
+
+### Gradient map
+
+Associate dark and bright tones with an editable palette. Add and edit colour stops, reverse the palette and use the amount control to blend the treatment into the photograph.
+
+<img src="assets/readme-gradient_map-panel.png" width="440" alt="Gradient map controls">
+
+
+### Selective color
+
+Choose one of nine colour families and refine its cyan, magenta, yellow and black components. Relative and absolute modes provide different responses for subtle palette changes or stronger colour treatments.
+
+<img src="assets/readme-selective_color-panel.png" width="440" alt="Selective color controls">
+
+### Colorize
+
+Apply a common hue with separate chroma and brightness controls. Increase the amount to blend in the chosen colour and adjust the balance to suit the image.
+
+<img src="assets/readme-colorize-panel.png" width="440" alt="Colorize controls">
+
+
+### Tonal controls
+
+Refine exposure, brightness, contrast, shadows, highlights, blacks and whites on a layer. Mask the layer to give one part of the image its own tonal balance.
+
+<img src="assets/readme-tonal-panel.png" width="440" alt="Tonal controls controls">
+
+### Exposure, offset and gamma
+
+Adjust signal gain, offset and gamma in a dedicated layer tool. The controls provide a direct way to shape brightness and tonal response with the order exposure, offset, then gamma.
+
+<img src="assets/readme-exposure_gamma-panel.png" width="440" alt="Exposure, offset and gamma controls">
+
+
+### Luminance curve
+
+Shape light and contrast with a point curve on luminance while preserving colour differences. Place points to target selected brightness ranges and refine their coordinates numerically.
+
+<img src="assets/readme-luminance_curve-panel.png" width="440" alt="Luminance curve controls">
+
+### Parametric curves
+
+Adjust four tonal zones and the three boundaries between them. Choose luminance or RGB to shape the response, then tune zone transitions for the contrast you want.
+
+<img src="assets/readme-parametric_curve-panel.png" width="440" alt="Parametric curves controls">
+
 
 <details>
 <summary>Color editor: range and Before/After colour samples</summary>
+
+Refine the sampled range with feathering, hue, saturation and luminance controls. The Before/After swatches show the effect on the selected colour sample.
 
 ![Color editor range controls](assets/readme-sample-panel.png)
 
@@ -160,37 +280,74 @@ These are cropped screenshots of the actual controls. Selecting a tool for a scr
 
 ## Layers that follow your subject
 
-| Layer blending | Brush mask |
-| --- | --- |
-| <img src="assets/readme-layer-controls-panel.png" width="340" alt="Layer blending controls"> | <img src="assets/readme-mask-brush-panel.png" width="340" alt="Brush mask controls"> |
-| Opacity, tonal fade and separate shadow/highlight blending control how a layer contributes. | Paint the area where an adjustment applies; control radius and feathering. |
+### Layer blending
 
-| Gradient mask | Radial mask |
-| --- | --- |
-| <img src="assets/readme-mask-gradient-panel.png" width="340" alt="Gradient mask controls"> | <img src="assets/readme-mask-radial-panel.png" width="340" alt="Radial mask controls"> |
-| Build a smooth transition with adjustable direction and width. | Isolate an elliptical area with a soft edge. |
+Set overall opacity, then use tonal fade and separate shadow/highlight blending to control where the layer contributes by brightness. These tonal controls complement spatial masks for finer integration.
 
-| Luminance mask | Colour mask |
-| --- | --- |
-| <img src="assets/readme-mask-luminance-panel.png" width="340" alt="Luminance mask controls"> | <img src="assets/readme-mask-color-panel.png" width="340" alt="Colour mask controls"> |
-| Target a brightness range, with feathering and inversion. | Sample hue, chroma and luminance ranges. |
+<img src="assets/readme-layer-controls-panel.png" width="440" alt="Layer blending controls">
+
+### Brush mask
+
+Paint the region where the selected layer should act. Adjust radius and feathering, invert the mask when useful, and combine components with Add, Subtract or Intersect.
+
+<img src="assets/readme-mask-brush-panel.png" width="440" alt="Brush mask controls">
+
+
+### Gradient mask
+
+Drag on the photograph to set a gradual transition, then refine its angle, width and feathering. Use it to ease an adjustment across the frame, for example between sky and foreground.
+
+<img src="assets/readme-mask-gradient-panel.png" width="440" alt="Gradient mask controls">
+
+### Radial mask
+
+Drag to position a soft elliptical region around the area you want to adjust. Refine the radius and feathering, or invert the mask to work on the surrounding area.
+
+<img src="assets/readme-mask-radial-panel.png" width="440" alt="Radial mask controls">
+
+
+### Luminance mask
+
+Choose the start and end of a brightness range and soften its boundaries with feathering. This lets an adjustment follow the image’s tones rather than a hand-drawn outline.
+
+<img src="assets/readme-mask-luminance-panel.png" width="440" alt="Luminance mask controls">
+
+### Colour mask
+
+Sample a colour on the photograph and control the hue, chroma and luminance widths of its range. Feather the transition and combine it with other mask components to refine the target area.
+
+<img src="assets/readme-mask-color-panel.png" width="440" alt="Colour mask controls">
+
 
 ## Organize, compare and revisit
 
-| Photo browser | Compare |
-| --- | --- |
-| <img src="assets/readme-grid-panel.png" width="340" alt="Photo browser controls"> | <img src="assets/readme-compare-panel.png" width="340" alt="Compare controls"> |
-| Browse the grid and filmstrip, search and select photographs. Albums and smart albums organize references without moving originals. | Side-by-side and wipe comparisons, synchronized navigation and colour samplers. |
+### Photo browser
 
-| Information and ratings | Editable history |
-| --- | --- |
-| <img src="assets/readme-information-panel.png" width="340" alt="Information and ratings controls"> | <img src="assets/readme-history-panel.png" width="340" alt="Editable history controls"> |
-| Read capture metadata; assign stars, colour labels and keywords. | Revisit saved states and Undo/Redo your adjustments. |
+Browse a shoot in the grid and filmstrip, search filenames and keywords, and narrow the selection with ratings and labels. Manual and smart albums collect references to photographs without moving the originals.
 
-| Preview and RAW settings |
-| --- |
-| <img src="assets/readme-settings-panel.png" width="340" alt="Preview and RAW settings controls"> |
-| Choose rendering quality and the RAW engine appropriate to your camera. |
+<img src="assets/readme-grid-panel.png" width="760" alt="Photo browser controls">
+
+### Compare
+
+Place photographs side by side or use the wipe view to compare them. Synchronized navigation and colour samplers help you judge detail and colour while choosing a frame.
+
+<img src="assets/readme-compare-panel.png" width="760" alt="Compare controls">
+
+
+### Information and ratings
+
+Read image dimensions, format and available capture data alongside the photograph. Stars, colour labels and keywords help turn a folder of images into a useful selection.
+
+<img src="assets/readme-information-panel.png" width="440" alt="Information and ratings controls">
+
+### Editable history
+
+Return to a saved editing state or move forward again with Undo/Redo. The history keeps previous decisions accessible as you explore different versions of a photograph.
+
+<img src="assets/readme-history-panel.png" width="440" alt="Editable history controls">
+
+
+
 
 
 ## Rights and credits
