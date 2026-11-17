@@ -75,7 +75,7 @@ Availability depends on platform, camera and recording mode. TrueRenderer is cur
 
 ## A closer look at the tools
 
-These are cropped screenshots of the actual controls. Selecting a tool for a screenshot does not apply it to the photograph.
+The tool overview appears once below. Each following screenshot focuses on that tool’s controls. Selecting a tool for a screenshot does not apply it to the photograph.
 
 ### Navigate
 
@@ -142,19 +142,13 @@ Drag out a rectangular region for a quick, precise selection. Use replace, add, 
 <img src="assets/readme-rectangle-panel.png" width="440" alt="Rectangular selection controls">
 
 
-## Develop, layers and export
+## Develop and export
 
 ### Develop
 
 Start with a photo profile, then balance white balance, exposure and the tonal range. The Light controls give separate access to brightness, contrast, highlights, shadows, whites and blacks.
 
 <img src="assets/readme-develop-panel.png" width="440" alt="White balance and light controls">
-
-### Layers
-
-Keep adjustments in independently editable layers. Add a correction, select its layer and use a mask when the change should affect only part of the photograph.
-
-<img src="assets/readme-layers-panel.png" width="440" alt="Layer stack before adding adjustments">
 
 ### Export
 
@@ -280,11 +274,13 @@ Refine the sampled range with feathering, hue, saturation and luminance controls
 
 ## Layers that follow your subject
 
-### Layer blending
+### Layers and blending
 
-Set overall opacity, then use tonal fade and separate shadow/highlight blending to control where the layer contributes by brightness. These tonal controls complement spatial masks for finer integration.
+Keep adjustments in independently editable layers and add a mask to limit them to part of the photograph. Set overall opacity, then use tonal fade and separate shadow/highlight blending to control where the layer contributes by brightness. These tonal controls complement spatial masks for finer integration.
 
 <img src="assets/readme-layer-controls-panel.png" width="440" alt="Layer blending controls">
+
+Mask components share Add, Subtract and Intersect operations. The brush example shows these shared controls; the other examples focus on the controls specific to each mask.
 
 ### Brush mask
 
