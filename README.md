@@ -42,88 +42,156 @@ The beta works offline. Sign in with the account provided for beta access.
 
 ---
 
-## Your vision, from first frame to final image
+## Explore the workspace
 
-The light, the colour, the details that made you stop and take the photograph. **TrueRenderer gives you the tools to make them yours.** Develop RAW files, shape a personal look and refine your images in a desktop workspace that keeps your originals untouched.
+**Gallery preview:** these screenshots show macOS development build 0.2.9.1. The downloadable betas above are earlier versions; some illustrated features are awaiting a future installer update.
 
-**Your photographs stay on your computer. No photo upload required.**
 
-![A photograph open in TrueRenderer Develop](assets/develop.png)
 
-## Find the light. Make the colour yours.
+Develop RAW photographs, shape colour and refine local details in one desktop workspace. Keep your originals untouched, your adjustments editable and your library on your computer.
 
-Bring balance to a difficult exposure, recover the mood in a landscape or give a series a distinctive palette. Start with a **Linear or Standard photo profile**, then shape the result with light, colour and detail tools.
+**[Explore the beta and downloads](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases)** · **[Request beta access](mailto:truerenderer@gmail.com)**
 
-| Your creative intent | Your tools |
-|---|---|
-| Balance the scene | Exposure, brightness, contrast, highlights, shadows, whites and blacks |
-| Set the mood | White balance, curves, colour grading and black-and-white mixing |
-| Refine a palette | HSL, selective colour, sampled colour corrections and channel mixing |
-| Bring out detail | Texture, clarity, dehaze, sharpening and noise reduction |
-| Add character | Creative grain, colour filters and gradient maps |
-| Finish the composition | Crop, straighten, rotate, perspective and manual lens corrections |
+![TrueRenderer macOS workspace with Avalanche Lake in the original Before view](assets/readme-workspace-original.png)
 
-Explore colour with **four-wheel grading** for shadows, midtones, highlights and the whole photograph. Fine-tune a single hue, warm the light or build a look you can reuse across a collection.
+*Actual macOS 0.2.9.1 interface. Avalanche Lake shown in Before view; no retouch strokes applied. Photographs: NPS / David Restivo and National Park Service; [photograph sources and credits](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/blob/1819af3e1da9c6f5615c5d4ba20effa26ae7532e/docs/NOTICE.md).*
 
-![Four-wheel colour grading in TrueRenderer](assets/colour.png)
+## From your first selection to your final image
 
-## Give every detail its own attention
+| Your workflow | What you can do |
+| --- | --- |
+| Find your photographs | Browse folders, grid, detailed list and filmstrip; search filenames and keywords; filter stars, rejects and colour labels. |
+| Build a collection | Manual and smart albums, virtual copies, version stacks, manual stacks and custom album ordering. |
+| Make a selection | Synchronized comparison, side-by-side and wipe views, fixed colour samples, zoom and pan. |
+| Develop your image | Photo profiles, white balance, exposure, tonal controls, RGB curves, saturation, vibrance, crop, geometry, manual optics and detail. |
+| Shape your colour | Sixteen shared adjustment tools, sampled colour editing, selective colour, channel mixing and four-wheel grading. |
+| Work locally | Editable layers, opacity, tonal fade, shadow/highlight blending and brush, gradient, radial, luminance and colour masks. |
+| Retouch and compose | Paint, erase, clone, heal, transform and select; raster composition and editable `.truerenderer` projects. |
+| Revisit your decisions | Undo/Redo, history, Before/After, reusable looks and selective copying of adjustments, layers and retouch strokes. |
+| Deliver your work | JPEG, PNG and TIFF, destination colour profiles, output dimensions and DPI/PPI; DNG mosaic export for supported RAW sources. |
+| Make it yours | English/Italian, themes, four tab styles, saved workspaces, configurable shortcuts and interface scaling. |
 
-Brighten a face, deepen a sky or guide the eye through a scene. **Editable layers and masks** let you refine individual areas while keeping your creative choices independent.
+Availability depends on platform, camera and recording mode. TrueRenderer is currently a beta; licence purchases and subscriptions are planned for the public version.
 
-Brushes, linear and radial gradients, luminance and hue masks help you place each adjustment. Clone, Heal and Quick heal bring retouching into the same workspace. Save favourite looks and choose how strongly to apply them to another photograph.
+## A closer look at the tools
 
-**Experiment freely:** compare Before and After, undo a change or try an independent photo copy. Transfer selected adjustments, layers and retouching across a series for a consistent visual style.
+These are cropped screenshots of the actual controls. Selecting a tool for a screenshot does not apply it to the photograph.
 
-![Editable photographic layers and local adjustments](assets/layers.png)
+| Navigate | Move / transform |
+| --- | --- |
+| <img src="assets/readme-navigate-panel.png" width="340" alt="Navigate controls"> | <img src="assets/readme-transform-panel.png" width="340" alt="Move / transform controls"> |
+| Pan and explore the photograph. | Position, scale, rotate and resize photo or layer content. |
 
-## Go beyond a single photograph
+| Brush | Eraser |
+| --- | --- |
+| <img src="assets/readme-brush-panel.png" width="340" alt="Brush controls"> | <img src="assets/readme-eraser-panel.png" width="340" alt="Eraser controls"> |
+| Paint with adjustable radius, hardness, amount and colour. | Control transparency with adjustable brush settings. |
 
-Turn a developed image into a composition, or begin with a blank canvas. Combine images, pixel layers, adjustments and masks in an editable **`.truerenderer` project**. Reorder elements, refine their opacity and return to your composition later with its layers intact.
+| Clone | Heal |
+| --- | --- |
+| <img src="assets/readme-clone-panel.png" width="340" alt="Clone controls"> | <img src="assets/readme-heal-panel.png" width="340" alt="Heal controls"> |
+| Sample a source with Option/Alt-click and copy an area. | Repair an area using an adapted source sample. |
 
-A searchable **Tools** catalogue keeps photographic and raster editing close at hand, with an interface available in **English and Italian**.
+| Quick heal | Freehand selection |
+| --- | --- |
+| <img src="assets/readme-quick-heal-panel.png" width="340" alt="Quick heal controls"> | <img src="assets/readme-freehand-panel.png" width="340" alt="Freehand selection controls"> |
+| Repair small defects using a nearby source. | Draw a selection, combine regions and feather its edge. |
 
-![The TrueRenderer Tools workspace](assets/tools.png)
+| Polygonal selection | Rectangular selection |
+| --- | --- |
+| <img src="assets/readme-polygon-panel.png" width="340" alt="Polygonal selection controls"> | <img src="assets/readme-rectangle-panel.png" width="340" alt="Rectangular selection controls"> |
+| Build a selection from vertices, with edge feathering. | Drag a rectangle; replace, add, subtract or intersect selections. |
 
-## Choose the frame that tells the story
+## Develop, layers and export
 
-Browse a shoot in the thumbnail grid or stay immersed in a photograph with the filmstrip. **Side-by-side comparison with synchronized zoom and navigation** helps you judge expression, focus and fine detail together.
+| Develop | Layers | Export |
+| --- | --- | --- |
+| <img src="assets/readme-develop-panel.png" width="280" alt="White balance and light controls"> | <img src="assets/readme-layers-panel.png" width="280" alt="Layer stack before adding adjustments"> | <img src="assets/readme-export-panel.png" width="280" alt="Export format, colour and dimension controls"> |
+| Start with a photo profile and refine light and colour. | Add independent adjustments and control where they apply. | Choose output format, colour profile and image size. |
 
-Move from the whole composition to **1:1 detail**. Keep your favourites close with star ratings, colour labels, keywords and reject flags. Folder browsing, search and filters help you find the photographs you want to develop next.
+## Sixteen ways to shape light and colour
 
-![Side-by-side photographic comparison](assets/compare.png)
+| Color editor | Local light and color |
+| --- | --- |
+| <img src="assets/readme-sample-editor-panel.png" width="340" alt="Color editor controls"> | <img src="assets/readme-light-panel.png" width="340" alt="Local light and color controls"> |
+| Sample a colour range; refine hue, saturation and luminance with Basic, Advanced and Uniformity controls. | Exposure, warmth, tint and saturation. |
 
-Albums collect selected photographs without moving their originals. In the grid, choose an area in the side preview and keep its focus-inspection zoom while moving between photographs.
+| RGB point curves | Tonal levels |
+| --- | --- |
+| <img src="assets/readme-curves-panel.png" width="340" alt="RGB point curves controls"> | <img src="assets/readme-levels-panel.png" width="340" alt="Tonal levels controls"> |
+| Composite RGB and independent red, green and blue curves. | Black and white points, gamma and output range. |
 
-Background preview preparation and caching help you move through your photographs. GPU acceleration and parallel processing support the editing workflow; performance varies with your hardware, image size and chosen tools.
+| Mixer and monochrome | Channel mixer |
+| --- | --- |
+| <img src="assets/readme-mixer-panel.png" width="340" alt="Mixer and monochrome controls"> | <img src="assets/readme-channels-panel.png" width="340" alt="Channel mixer controls"> |
+| Hue, saturation and luminance across eight colour families. | RGB channel contributions and per-channel offset. |
 
-## Start with your RAW files
+| Four-wheel grading | Black and white mixer |
+| --- | --- |
+| <img src="assets/readme-grading-panel.png" width="340" alt="Four-wheel grading controls"> | <img src="assets/readme-black_white-panel.png" width="340" alt="Black and white mixer controls"> |
+| Separate shadows, midtones, highlights and global colour, with balance. | Monochrome conversion with eight colour brightness controls. |
 
-On macOS, **trueRendererExperimental 32fp** is TrueRenderer's independent RAW engine. Its floating-point processing gives you room to work with light and colour, supported by white-balance controls and sensor-mosaic DNG export.
+| Color filter | Gradient map |
+| --- | --- |
+| <img src="assets/readme-filter-panel.png" width="340" alt="Color filter controls"> | <img src="assets/readme-gradient_map-panel.png" width="340" alt="Gradient map controls"> |
+| Tint and density, with optional luminance preservation. | Map luminance to an editable colour palette. |
 
-### Independent engine camera compatibility
+| Selective color | Colorize |
+| --- | --- |
+| <img src="assets/readme-selective_color-panel.png" width="340" alt="Selective color controls"> | <img src="assets/readme-colorize-panel.png" width="340" alt="Colorize controls"> |
+| C/M/Y/K controls in nine colour families; relative or absolute. | A common hue with separate chroma and brightness. |
 
-| Camera | Supported recording mode |
-|---|---|
-| **Nikon D750** | NEF · full-frame FX · 14-bit lossless compressed |
-| **Nikon D800** | NEF · full-frame FX · 12-bit or 14-bit lossless compressed |
-| **Fujifilm X-T5** | RAF · full resolution · 14-bit lossy compressed |
+| Tonal controls | Exposure, offset and gamma |
+| --- | --- |
+| <img src="assets/readme-tonal-panel.png" width="340" alt="Tonal controls controls"> | <img src="assets/readme-exposure_gamma-panel.png" width="340" alt="Exposure, offset and gamma controls"> |
+| Layer exposure, brightness, contrast, shadows, highlights, blacks and whites. | Gain, offset and power controls for RGB. |
 
-Supported Bayer and X-Trans **DNG files** can also use the independent engine; compatibility depends on compression and calibration features. Embedded camera previews let you browse some additional RAW cameras. On Windows, these previews also support RGB adjustments, crop and export; they do not replace full RAW development.
+| Luminance curve | Parametric curves |
+| --- | --- |
+| <img src="assets/readme-luminance_curve-panel.png" width="340" alt="Luminance curve controls"> | <img src="assets/readme-parametric_curve-panel.png" width="340" alt="Parametric curves controls"> |
+| A point curve on luminance, preserving colour differences. | Four tonal zones and three boundaries, in luminance or RGB. |
 
-**Have a camera compatibility question?** [Contact us](mailto:truerenderer@gmail.com) with your exact camera model and RAW recording mode.
+<details>
+<summary>Color editor: range and Before/After colour samples</summary>
 
-## Ready for screen, ready for print
+![Color editor range controls](assets/readme-sample-panel.png)
 
-Finish your photographs and compositions with **JPEG, PNG and TIFF export**, at original dimensions or your chosen size and resolution. Work with sRGB, Adobe RGB (1998), Display P3 and linear Rec.2020, or prepare CMYK output with a printer-provided ICC profile.
+</details>
 
-**Soft proofing** helps you preview a destination while you edit. Floating-point TIFF and sensor-mosaic DNG export offer additional options for the photographic workflow.
+## Layers that follow your subject
 
-## Open it. Explore it. Make it yours.
+| Layer blending | Brush mask |
+| --- | --- |
+| <img src="assets/readme-layer-controls-panel.png" width="340" alt="Layer blending controls"> | <img src="assets/readme-mask-brush-panel.png" width="340" alt="Brush mask controls"> |
+| Opacity, tonal fade and separate shadow/highlight blending control how a layer contributes. | Paint the area where an adjustment applies; control radius and feathering. |
 
-Four public-domain landscapes are included under **Sample photos**, so you can explore the tools before opening your own collection.
+| Gradient mask | Radial mask |
+| --- | --- |
+| <img src="assets/readme-mask-gradient-panel.png" width="340" alt="Gradient mask controls"> | <img src="assets/readme-mask-radial-panel.png" width="340" alt="Radial mask controls"> |
+| Build a smooth transition with adjustable direction and width. | Isolate an elliptical area with a soft edge. |
 
-**[Download the beta](#downloads)** and start shaping your next photograph. For beta access, camera questions or support, write to **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)**.
+| Luminance mask | Colour mask |
+| --- | --- |
+| <img src="assets/readme-mask-luminance-panel.png" width="340" alt="Luminance mask controls"> | <img src="assets/readme-mask-color-panel.png" width="340" alt="Colour mask controls"> |
+| Target a brightness range, with feathering and inversion. | Sample hue, chroma and luminance ranges. |
+
+## Organize, compare and revisit
+
+| Photo browser | Compare |
+| --- | --- |
+| <img src="assets/readme-grid-panel.png" width="340" alt="Photo browser controls"> | <img src="assets/readme-compare-panel.png" width="340" alt="Compare controls"> |
+| Browse the grid and filmstrip, search and select photographs. Albums and smart albums organize references without moving originals. | Side-by-side and wipe comparisons, synchronized navigation and colour samplers. |
+
+| Information and ratings | Editable history |
+| --- | --- |
+| <img src="assets/readme-information-panel.png" width="340" alt="Information and ratings controls"> | <img src="assets/readme-history-panel.png" width="340" alt="Editable history controls"> |
+| Read capture metadata; assign stars, colour labels and keywords. | Revisit saved states and Undo/Redo your adjustments. |
+
+| Preview and RAW settings |
+| --- |
+| <img src="assets/readme-settings-panel.png" width="340" alt="Preview and RAW settings controls"> |
+| Choose rendering quality and the RAW engine appropriate to your camera. |
+
 
 ## Rights and credits
 
