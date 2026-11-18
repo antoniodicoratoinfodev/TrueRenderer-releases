@@ -17,6 +17,46 @@
 
 ---
 
+## Choose your workspace theme
+
+Compare all six workspace themes with the same photograph, *Grand Teton – Sunrise* by NPS photographer David Restivo. All adjustments were reset before capture. Each screenshot shows the Develop panel on macOS.
+
+### Standard
+
+The default graphite workspace, with neutral panels and ivory accents.
+
+<a href="assets/readme-theme-standard.png"><img src="assets/readme-theme-standard.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the Standard theme"></a>
+
+### Black
+
+Deep black surfaces keep the workspace dark around the photograph.
+
+<a href="assets/readme-theme-black.png"><img src="assets/readme-theme-black.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the Black theme"></a>
+
+### Soft black
+
+A lighter dark palette with softer separation between panels.
+
+<a href="assets/readme-theme-black-soft.png"><img src="assets/readme-theme-black-soft.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the Soft black theme"></a>
+
+### Neutral gray
+
+A mid-gray workspace with dark text and neutral controls.
+
+<a href="assets/readme-theme-neutral-gray.png"><img src="assets/readme-theme-neutral-gray.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the Neutral gray theme"></a>
+
+### White 80%
+
+Light gray panels offer a brighter workspace with a softer appearance than white.
+
+<a href="assets/readme-theme-white-80.png"><img src="assets/readme-theme-white-80.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the White 80% theme"></a>
+
+### White
+
+A white workspace with dark text and clearly defined controls.
+
+<a href="assets/readme-theme-white.png"><img src="assets/readme-theme-white.png" width="640" alt="Grand Teton – Sunrise in the TrueRenderer workspace with the White theme"></a>
+
 ## Account and beta access
 
 **Discover TrueRenderer in beta.** Request access at **[truerenderer@gmail.com](mailto:truerenderer@gmail.com)** and explore a workspace built around your photographs. An account is required; beta access details are provided by the publisher.
@@ -341,50 +381,6 @@ Read image dimensions, format and available capture data alongside the photograp
 Return to a saved editing state or move forward again with Undo/Redo. The history keeps previous decisions accessible as you explore different versions of a photograph.
 
 <a href="assets/readme-history-panel.png"><img src="assets/readme-history-panel.png" width="320" alt="Photo editing history with Undo, Redo and three saved states"></a>
-
-
-
-
-
-## Choose your workspace theme
-
-Six interface themes let you choose the workspace you prefer. Each example shows the same Grand Teton photograph in Before view, with menus and settings closed. Themes change the interface; the photograph and its surround stay independent.
-
-### Standard
-
-The default graphite workspace, with neutral panels and ivory accents.
-
-<a href="assets/readme-theme-standard.png"><img src="assets/readme-theme-standard.png" width="640" alt="TrueRenderer full workspace in the Standard theme"></a>
-
-### Black
-
-Deep black surfaces keep the workspace dark around the photograph.
-
-<a href="assets/readme-theme-black.png"><img src="assets/readme-theme-black.png" width="640" alt="TrueRenderer full workspace in the Black theme"></a>
-
-### Soft black
-
-A lighter dark palette with softer separation between panels.
-
-<a href="assets/readme-theme-black-soft.png"><img src="assets/readme-theme-black-soft.png" width="640" alt="TrueRenderer full workspace in the Soft black theme"></a>
-
-### Neutral gray
-
-A mid-gray workspace with dark text and neutral controls.
-
-<a href="assets/readme-theme-neutral-gray.png"><img src="assets/readme-theme-neutral-gray.png" width="640" alt="TrueRenderer full workspace in the Neutral gray theme"></a>
-
-### White 80%
-
-Light gray panels offer a brighter workspace with a softer appearance than white.
-
-<a href="assets/readme-theme-white-80.png"><img src="assets/readme-theme-white-80.png" width="640" alt="TrueRenderer full workspace in the White 80% theme"></a>
-
-### White
-
-A white workspace with dark text and clearly defined controls.
-
-<a href="assets/readme-theme-white.png"><img src="assets/readme-theme-white.png" width="640" alt="TrueRenderer full workspace in the White theme"></a>
 
 ## Rights and credits
 
