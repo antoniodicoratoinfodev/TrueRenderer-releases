@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#downloads">Download</a> &nbsp;·&nbsp;
-  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.2-macos.20261118">Release notes</a> &nbsp;·&nbsp;
+  <a href="https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.2-macos.20261119">Release notes</a> &nbsp;·&nbsp;
   <a href="mailto:truerenderer@gmail.com">Support</a>
 </p>
 
@@ -67,7 +67,7 @@ A white workspace with dark text and clearly defined controls.
 
 | Platform | Download | Version |
 |---|---|---|
-| **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 63 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261118/TrueRenderer-0.2.9.2-macos.20261118-arm64.pkg)** | 0.2.9.2 · Beta |
+| **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 63 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261119/TrueRenderer-0.2.9.2-macos.20261119-arm64.pkg)** | 0.2.9.2 · Beta |
 | **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe)** | 0.2.9.2 · Beta |
 
 <!-- macos-download:end -->
@@ -76,7 +76,7 @@ A white workspace with dark text and clearly defined controls.
 
 **Windows:** run the offline installer. Windows 10/11 x64 with a compatible graphics device/driver; this beta is unsigned. Updates retain your catalog, settings and backups.
 
-[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261118/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261119/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 The beta works offline. Sign in with the account provided for beta access.
 
