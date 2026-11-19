@@ -68,7 +68,7 @@ A white workspace with dark text and clearly defined controls.
 | Platform | Download | Version |
 |---|---|---|
 | **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 63 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261118/TrueRenderer-0.2.9.2-macos.20261118-arm64.pkg)** | 0.2.9.2 · Beta |
-| **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.6.2-windows.20261113/TrueRenderer-0.2.6.2-Setup-x64.exe)** | 0.2.6.2 · Beta |
+| **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe)** | 0.2.9.2 · Beta |
 
 <!-- macos-download:end -->
 
@@ -76,7 +76,7 @@ A white workspace with dark text and clearly defined controls.
 
 **Windows:** run the offline installer. Windows 10/11 x64 with a compatible graphics device/driver; this beta is unsigned. Updates retain your catalog, settings and backups.
 
-[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261118/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.6.2-windows.20261113/TrueRenderer-0.2.6.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261118/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 The beta works offline. Sign in with the account provided for beta access.
 
@@ -84,7 +84,7 @@ The beta works offline. Sign in with the account provided for beta access.
 
 ## Explore the workspace
 
-**Gallery:** these screenshots show macOS 0.2.9.1. The Mac download above includes Liquify, Mesh Warp, and a pinned 100% before-and-after loupe. The Windows beta is an earlier version; its interface and available features may differ.
+**Gallery:** these screenshots show macOS 0.2.9.1. The Mac download above includes Liquify, Mesh Warp, and a pinned 100% before-and-after loupe. The Windows beta is also version 0.2.9.2. Its interface and available features may differ from those shown.
 
 
 
