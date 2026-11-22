@@ -64,6 +64,8 @@ On macOS, open the PKG installer and launch TrueRenderer from Applications. On W
 <details>
 <summary>Develop and export</summary>
 
+<a href="assets/readme-develop-overview.png"><img src="assets/readme-develop-overview.png" width="320" alt="Develop tab with the histogram, layer selector and white balance controls"></a>
+
 ### Develop
 
 Start with a photo profile, then balance white balance, exposure and the tonal range. The Light controls give separate access to brightness, contrast, highlights, shadows, whites and blacks.
@@ -80,6 +82,8 @@ Choose JPEG, PNG or TIFF, a destination colour profile and the output size. Set 
 
 <details>
 <summary>Retouching and selection tools</summary>
+
+<a href="assets/readme-retouch-overview.png"><img src="assets/readme-retouch-overview.png" width="320" alt="Tools tab showing the retouch, selection and warp tools"></a>
 
 ### Navigate
 
@@ -143,6 +147,8 @@ Drag out a rectangular region for a quick, precise selection. Use replace, add, 
 
 <details>
 <summary>Light and colour adjustments</summary>
+
+<a href="assets/readme-adjustments-overview.png"><img src="assets/readme-adjustments-overview.png" width="320" alt="Adjustments panel with the search field and the full grid of light and colour tools"></a>
 
 ### Color editor
 
@@ -251,6 +257,8 @@ Refine the sampled range with feathering, hue, saturation and luminance controls
 <details>
 <summary>Layers, blending and masks</summary>
 
+<a href="assets/readme-layers-overview.png"><img src="assets/readme-layers-overview.png" width="320" alt="Layers tab showing the layer stack, mask and adjustment controls"></a>
+
 ### Layers and blending
 
 Keep adjustments in independently editable layers and add a mask to limit them to part of the photograph. Set overall opacity, then use tonal fade and separate shadow/highlight blending to control where the layer contributes by brightness. These tonal controls complement spatial masks for finer integration.
@@ -293,6 +301,8 @@ Sample a colour on the photograph and control the hue, chroma and luminance widt
 
 <details>
 <summary>Photo browser, comparison and history</summary>
+
+<a href="assets/readme-library-overview.png"><img src="assets/readme-library-overview.png" width="200" alt="Library sidebar showing albums and rating filters"></a>
 
 ### Photo browser
 
