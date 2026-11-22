@@ -1,7 +1,7 @@
 <h1 align="center">TrueRenderer</h1>
 
 <p align="center">
-  <a href="assets/readme-theme-standard.png"><img src="assets/readme-theme-standard.png" width="960" alt="RAW development workspace in TrueRenderer’s Standard theme, showing Grand Teton at sunrise"></a>
+  <a href="assets/readme-theme-standard.png"><img src="assets/readme-theme-standard.png" width="960" alt="Photo development workspace in TrueRenderer’s Standard theme, showing Grand Teton at sunrise"></a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ On macOS, open the PKG installer and launch TrueRenderer from Applications. On W
 
 Start with a photo profile, then balance white balance, exposure and the tonal range. The Light controls give separate access to brightness, contrast, highlights, shadows, whites and blacks.
 
-<a href="assets/readme-develop-panel.png"><img src="assets/readme-develop-panel.png" width="320" alt="Photo profile, RGB white balance and exposure sliders"></a>
+<a href="assets/readme-develop-panel.png"><img src="assets/readme-develop-panel.png" width="320" alt="Layer selector, RGB white balance and exposure sliders"></a>
 
 ### Export
 
@@ -244,7 +244,7 @@ Adjust four tonal zones and the three boundaries between them. Choose luminance 
 
 Refine the sampled range with feathering, hue, saturation and luminance controls. The Before/After swatches show the effect on the selected colour sample.
 
-<a href="assets/readme-sample-panel.png"><img src="assets/readme-sample-panel.png" width="320" alt="Color editor range controls"></a>
+<a href="assets/readme-sample-panel.png"><img src="assets/readme-sample-panel.png" width="320" alt="Colour wheel, samples and preview controls in the colour editor"></a>
 
 </details>
 
@@ -255,7 +255,7 @@ Refine the sampled range with feathering, hue, saturation and luminance controls
 
 Keep adjustments in independently editable layers and add a mask to limit them to part of the photograph. Set overall opacity, then use tonal fade and separate shadow/highlight blending to control where the layer contributes by brightness. These tonal controls complement spatial masks for finer integration.
 
-<a href="assets/readme-layer-controls-panel.png"><img src="assets/readme-layer-controls-panel.png" width="320" alt="Layer blending controls"></a>
+<a href="assets/readme-layer-controls-panel.png"><img src="assets/readme-layer-controls-panel.png" width="320" alt="Image and mask thumbnails, a selected adjustment layer and its opacity control"></a>
 
 Combine mask components with Add, Subtract and Intersect to refine the area you want to adjust.
 
@@ -316,7 +316,7 @@ Read image dimensions, format and available capture data alongside the photograp
 
 Return to a saved editing state or move forward again with Undo/Redo. The history keeps previous decisions accessible as you explore different versions of a photograph.
 
-<a href="assets/readme-history-panel.png"><img src="assets/readme-history-panel.png" width="320" alt="Photo editing history with Undo, Redo and three saved states"></a>
+<a href="assets/readme-history-panel.png"><img src="assets/readme-history-panel.png" width="320" alt="Photo editing history showing an exposure adjustment and the earliest retained state"></a>
 
 </details>
 
