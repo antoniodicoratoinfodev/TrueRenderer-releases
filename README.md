@@ -23,7 +23,7 @@ Take a photograph from the first selection to the final export. Adjustments stay
 
 | Platform | Download | Version |
 |---|---|---|
-| **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 63 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261119/TrueRenderer-0.2.9.2-macos.20261119-arm64.pkg)** | 0.2.9.2 · Beta |
+| **macOS · Apple Silicon** | **[Download for Mac — Installer PKG · 65 MB](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.3-macos.20261123/TrueRenderer-0.2.9.3-macos.20261123-arm64.pkg)** | 0.2.9.3 · Beta |
 | **Windows · x64** | **[Download for Windows — EXE](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe)** | 0.2.9.2 · Beta |
 
 <!-- macos-download:end -->
@@ -35,9 +35,9 @@ Take a photograph from the first selection to the final export. Adjustments stay
 
 On macOS, open the PKG installer and launch TrueRenderer from Applications. On Windows 10/11 x64, run the EXE installer and launch TrueRenderer from the Start menu. Quit TrueRenderer before installing an update. Check the release notes for installation details specific to your platform.
 
-[Mac release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.2-macos.20261119) · [Windows release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.2-windows.20261119)
+[Mac release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.3-macos.20261123) · [Windows release notes](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/tag/v0.2.9.2-windows.20261119)
 
-[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-macos.20261119/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
+[Mac checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.3-macos.20261123/SHA256SUMS.txt) · [Windows checksum](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases/download/v0.2.9.2-windows.20261119/TrueRenderer-0.2.9.2-Setup-x64.exe.sha256) · [All releases](https://github.com/antoniodicoratoinfodev/TrueRenderer-releases/releases)
 
 </details>
 
